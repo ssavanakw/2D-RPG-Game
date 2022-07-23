@@ -1,0 +1,6426 @@
+fileFormatVersion: 2
+guid: 971c6dfcfeca4da4fb9e4dc796f19eac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4566800153782099510
+    second: Mussuh 5_0
+  - first:
+      213: -2040156759017231171
+    second: Mussuh 5_1
+  - first:
+      213: -2719114073129035106
+    second: Mussuh 5_2
+  - first:
+      213: 8526732020748783446
+    second: Mussuh 5_3
+  - first:
+      213: 1852161344995574086
+    second: Mussuh 5_4
+  - first:
+      213: 5885612042925422217
+    second: Mussuh 5_5
+  - first:
+      213: -2221058325001428427
+    second: Mussuh 5_6
+  - first:
+      213: 3862430137213033991
+    second: Mussuh 5_7
+  - first:
+      213: -6816548402015314040
+    second: Mussuh 5_8
+  - first:
+      213: -4601866024605843300
+    second: Mussuh 5_9
+  - first:
+      213: 8725618770318015684
+    second: Mussuh 5_10
+  - first:
+      213: 7286733229140147958
+    second: Mussuh 5_11
+  - first:
+      213: 2881821406417590906
+    second: Mussuh 5_12
+  - first:
+      213: 906983112668922351
+    second: Mussuh 5_13
+  - first:
+      213: -2772262621380964756
+    second: Mussuh 5_14
+  - first:
+      213: 1366075021930810701
+    second: Mussuh 5_15
+  - first:
+      213: 8124068535203705672
+    second: Mussuh 5_16
+  - first:
+      213: 3828885272632270794
+    second: Mussuh 5_17
+  - first:
+      213: 517889441707966586
+    second: Mussuh 5_18
+  - first:
+      213: 1997004495981696861
+    second: Mussuh 5_19
+  - first:
+      213: -31675214469660909
+    second: Mussuh 5_20
+  - first:
+      213: -6835233332621038885
+    second: Mussuh 5_21
+  - first:
+      213: 3321032874103562318
+    second: Mussuh 5_22
+  - first:
+      213: 3874024438068592439
+    second: Mussuh 5_23
+  - first:
+      213: -1936372933558732353
+    second: Mussuh 5_24
+  - first:
+      213: 321534949653336328
+    second: Mussuh 5_25
+  - first:
+      213: 784215997937029623
+    second: Mussuh 5_26
+  - first:
+      213: 4583019851143231789
+    second: Mussuh 5_27
+  - first:
+      213: 5736695785065170422
+    second: Mussuh 5_28
+  - first:
+      213: 2490791250811318940
+    second: Mussuh 5_29
+  - first:
+      213: -3067593753677729302
+    second: Mussuh 5_30
+  - first:
+      213: -1783660704737371950
+    second: Mussuh 5_31
+  - first:
+      213: -7495924598051427161
+    second: Mussuh 5_32
+  - first:
+      213: -3886226223329011038
+    second: Mussuh 5_33
+  - first:
+      213: 5623028154019703356
+    second: Mussuh 5_34
+  - first:
+      213: -3406091411843219189
+    second: Mussuh 5_35
+  - first:
+      213: -6211104490798241718
+    second: Mussuh 5_36
+  - first:
+      213: -907110905074133334
+    second: Mussuh 5_37
+  - first:
+      213: 7030224670306854916
+    second: Mussuh 5_38
+  - first:
+      213: -4715377763661020041
+    second: Mussuh 5_39
+  - first:
+      213: 6106595803300101922
+    second: Mussuh 5_40
+  - first:
+      213: -5517688005211606724
+    second: Mussuh 5_41
+  - first:
+      213: -6102735502711179831
+    second: Mussuh 5_42
+  - first:
+      213: -4166361152940330837
+    second: Mussuh 5_43
+  - first:
+      213: 6036105992094374117
+    second: Mussuh 5_44
+  - first:
+      213: 111311985673286084
+    second: Mussuh 5_45
+  - first:
+      213: 4945498408610525192
+    second: Mussuh 5_46
+  - first:
+      213: 7001362160344949728
+    second: Mussuh 5_47
+  - first:
+      213: -8542592072708707732
+    second: Mussuh 5_48
+  - first:
+      213: -6700331223207363271
+    second: Mussuh 5_49
+  - first:
+      213: -7412763332159852980
+    second: Mussuh 5_50
+  - first:
+      213: -6186930838088235237
+    second: Mussuh 5_51
+  - first:
+      213: -8807054215542598814
+    second: Mussuh 5_52
+  - first:
+      213: -6708920488207840181
+    second: Mussuh 5_53
+  - first:
+      213: -265317444325857847
+    second: Mussuh 5_54
+  - first:
+      213: 7039507904557150405
+    second: Mussuh 5_55
+  - first:
+      213: 4043962417325135995
+    second: Mussuh 5_56
+  - first:
+      213: 1361580116129224973
+    second: Mussuh 5_57
+  - first:
+      213: -8771753182786643633
+    second: Mussuh 5_58
+  - first:
+      213: 3798977814408325077
+    second: Mussuh 5_59
+  - first:
+      213: 36306699842357632
+    second: Mussuh 5_60
+  - first:
+      213: 6370468331073707632
+    second: Mussuh 5_61
+  - first:
+      213: -7694961454873426941
+    second: Mussuh 5_62
+  - first:
+      213: 4321667234315717108
+    second: Mussuh 5_63
+  - first:
+      213: 4418247374469994871
+    second: Mussuh 5_64
+  - first:
+      213: 402327047616860512
+    second: Mussuh 5_65
+  - first:
+      213: -1689462940779617682
+    second: Mussuh 5_66
+  - first:
+      213: 6990508558796512305
+    second: Mussuh 5_67
+  - first:
+      213: 6687316759928406834
+    second: Mussuh 5_68
+  - first:
+      213: 1630869547982117522
+    second: Mussuh 5_69
+  - first:
+      213: -6785308601826496926
+    second: Mussuh 5_70
+  - first:
+      213: -589147168820096021
+    second: Mussuh 5_71
+  - first:
+      213: 9067548247139928415
+    second: Mussuh 5_72
+  - first:
+      213: 6383184338583767747
+    second: Mussuh 5_73
+  - first:
+      213: 8166677192407509471
+    second: Mussuh 5_74
+  - first:
+      213: -3061823316533680056
+    second: Mussuh 5_75
+  - first:
+      213: 1708139662576389361
+    second: Mussuh 5_76
+  - first:
+      213: -5265268685244675714
+    second: Mussuh 5_77
+  - first:
+      213: -1293973138168338321
+    second: Mussuh 5_78
+  - first:
+      213: 1155325445824844641
+    second: Mussuh 5_79
+  - first:
+      213: -8445103449776935155
+    second: Mussuh 5_80
+  - first:
+      213: -2637346369132548122
+    second: Mussuh 5_81
+  - first:
+      213: -876270284717515449
+    second: Mussuh 5_82
+  - first:
+      213: -2040094400222049897
+    second: Mussuh 5_83
+  - first:
+      213: 388633172269734063
+    second: Mussuh 5_84
+  - first:
+      213: -7827424025318944377
+    second: Mussuh 5_85
+  - first:
+      213: -7055071257869804776
+    second: Mussuh 5_86
+  - first:
+      213: 4434077464318831987
+    second: Mussuh 5_87
+  - first:
+      213: -5083991081456995303
+    second: Mussuh 5_88
+  - first:
+      213: -6042066500330374893
+    second: Mussuh 5_89
+  - first:
+      213: -705852001223122976
+    second: Mussuh 5_90
+  - first:
+      213: 218283578503497181
+    second: Mussuh 5_91
+  - first:
+      213: -3438127626554277426
+    second: Mussuh 5_92
+  - first:
+      213: 4421717373485798431
+    second: Mussuh 5_93
+  - first:
+      213: -5721627806523849454
+    second: Mussuh 5_94
+  - first:
+      213: -6218329516189059335
+    second: Mussuh 5_95
+  - first:
+      213: 4432295467747465111
+    second: Mussuh 5_96
+  - first:
+      213: -3014147235213104869
+    second: Mussuh 5_97
+  - first:
+      213: 8457176406507340657
+    second: Mussuh 5_98
+  - first:
+      213: 4993468892843963613
+    second: Mussuh 5_99
+  - first:
+      213: 3406430278938213508
+    second: Mussuh 5_100
+  - first:
+      213: -1288755586390837652
+    second: Mussuh 5_101
+  - first:
+      213: -1114340358086214556
+    second: Mussuh 5_102
+  - first:
+      213: -5236019348571514058
+    second: Mussuh 5_103
+  - first:
+      213: 3411666628207286929
+    second: Mussuh 5_104
+  - first:
+      213: 1939791428215872916
+    second: Mussuh 5_105
+  - first:
+      213: -9083634673252492268
+    second: Mussuh 5_106
+  - first:
+      213: 4529305616663144457
+    second: Mussuh 5_107
+  - first:
+      213: 4878996527625464492
+    second: Mussuh 5_108
+  - first:
+      213: 104003851499940274
+    second: Mussuh 5_109
+  - first:
+      213: 9046354074356418007
+    second: Mussuh 5_110
+  - first:
+      213: 7150111539924252585
+    second: Mussuh 5_111
+  - first:
+      213: 1304819573909482412
+    second: Mussuh 5_112
+  - first:
+      213: 4717649725417833343
+    second: Mussuh 5_113
+  - first:
+      213: -5045568414547162762
+    second: Mussuh 5_114
+  - first:
+      213: -5269483367848172999
+    second: Mussuh 5_115
+  - first:
+      213: 1706449556034502
+    second: Mussuh 5_116
+  - first:
+      213: -5060427219793801472
+    second: Mussuh 5_117
+  - first:
+      213: 1143117939225246062
+    second: Mussuh 5_118
+  - first:
+      213: -4719980129988107753
+    second: Mussuh 5_119
+  - first:
+      213: 2763211412352540310
+    second: Mussuh 5_120
+  - first:
+      213: 8225026812819353634
+    second: Mussuh 5_121
+  - first:
+      213: -4556529054555790579
+    second: Mussuh 5_122
+  - first:
+      213: -7394127879475313062
+    second: Mussuh 5_123
+  - first:
+      213: 5648186684086168722
+    second: Mussuh 5_124
+  - first:
+      213: -7937617478366339589
+    second: Mussuh 5_125
+  - first:
+      213: 7420650219529600294
+    second: Mussuh 5_126
+  - first:
+      213: -5738925993904040264
+    second: Mussuh 5_127
+  - first:
+      213: 7528640178963879346
+    second: Mussuh 5_128
+  - first:
+      213: 7279028449454176254
+    second: Mussuh 5_129
+  - first:
+      213: -1410478133896402153
+    second: Mussuh 5_130
+  - first:
+      213: 56489731839917222
+    second: Mussuh 5_131
+  - first:
+      213: 2610843206210845353
+    second: Mussuh 5_132
+  - first:
+      213: 1938716985032590357
+    second: Mussuh 5_133
+  - first:
+      213: -384899832376929397
+    second: Mussuh 5_134
+  - first:
+      213: 6698946852694331228
+    second: Mussuh 5_135
+  - first:
+      213: 7926689106270782351
+    second: Mussuh 5_136
+  - first:
+      213: -4307305645801566821
+    second: Mussuh 5_137
+  - first:
+      213: 2016480260079870323
+    second: Mussuh 5_138
+  - first:
+      213: -1623819256001016137
+    second: Mussuh 5_139
+  - first:
+      213: 6903739262732725965
+    second: Mussuh 5_140
+  - first:
+      213: -174140513995607489
+    second: Mussuh 5_141
+  - first:
+      213: -4300276370652122207
+    second: Mussuh 5_142
+  - first:
+      213: -1137609257209782926
+    second: Mussuh 5_143
+  - first:
+      213: -6254874634598629811
+    second: Mussuh 5_144
+  - first:
+      213: 356323721556598968
+    second: Mussuh 5_145
+  - first:
+      213: 2784353554780627747
+    second: Mussuh 5_146
+  - first:
+      213: 8745114854809354588
+    second: Mussuh 5_147
+  - first:
+      213: -6636248361291402210
+    second: Mussuh 5_148
+  - first:
+      213: 4202128633995388440
+    second: Mussuh 5_149
+  - first:
+      213: -8673004601541256504
+    second: Mussuh 5_150
+  - first:
+      213: 7713566083227801944
+    second: Mussuh 5_151
+  - first:
+      213: 8403518586694051583
+    second: Mussuh 5_152
+  - first:
+      213: -8051153122319981722
+    second: Mussuh 5_153
+  - first:
+      213: 6049126260531319107
+    second: Mussuh 5_154
+  - first:
+      213: -4344426262128317058
+    second: Mussuh 5_155
+  - first:
+      213: -6296528760307034163
+    second: Mussuh 5_156
+  - first:
+      213: 2130839741079341355
+    second: Mussuh 5_157
+  - first:
+      213: -3121202614553546322
+    second: Mussuh 5_158
+  - first:
+      213: -7761058181723200844
+    second: Mussuh 5_159
+  - first:
+      213: -7098430484553025733
+    second: Mussuh 5_160
+  - first:
+      213: 6730582884638282943
+    second: Mussuh 5_161
+  - first:
+      213: -1199495897125661349
+    second: Mussuh 5_162
+  - first:
+      213: 8162167378999798574
+    second: Mussuh 5_163
+  - first:
+      213: -6158508788625113349
+    second: Mussuh 5_164
+  - first:
+      213: 6958633452709454178
+    second: Mussuh 5_165
+  - first:
+      213: -5962140672662054967
+    second: Mussuh 5_166
+  - first:
+      213: -3172352149774398489
+    second: Mussuh 5_167
+  - first:
+      213: -8089521974576864800
+    second: Mussuh 5_168
+  - first:
+      213: 2253894676680659296
+    second: Mussuh 5_169
+  - first:
+      213: 6925695843949420164
+    second: Mussuh 5_170
+  - first:
+      213: 4045253312641890017
+    second: Mussuh 5_171
+  - first:
+      213: -4259530717110056098
+    second: Mussuh 5_172
+  - first:
+      213: 1305533825665002984
+    second: Mussuh 5_173
+  - first:
+      213: 3753785796439456547
+    second: Mussuh 5_174
+  - first:
+      213: -8539599219479648490
+    second: Mussuh 5_175
+  - first:
+      213: 4573275630083478306
+    second: Mussuh 5_176
+  - first:
+      213: -2103001692587912935
+    second: Mussuh 5_177
+  - first:
+      213: 5091125459117163641
+    second: Mussuh 5_178
+  - first:
+      213: -7026455438332896326
+    second: Mussuh 5_179
+  - first:
+      213: 2794962139525143998
+    second: Mussuh 5_180
+  - first:
+      213: -5302097029701794966
+    second: Mussuh 5_181
+  - first:
+      213: -1935772776675246520
+    second: Mussuh 5_182
+  - first:
+      213: 2042289304434641228
+    second: Mussuh 5_183
+  - first:
+      213: -5015862004092841503
+    second: Mussuh 5_184
+  - first:
+      213: -3497844363829687475
+    second: Mussuh 5_185
+  - first:
+      213: -7326138926306904859
+    second: Mussuh 5_186
+  - first:
+      213: -2840760880343043015
+    second: Mussuh 5_187
+  - first:
+      213: 3984735109607927197
+    second: Mussuh 5_188
+  - first:
+      213: 7451052075469947102
+    second: Mussuh 5_189
+  - first:
+      213: -1009137740044023056
+    second: Mussuh 5_190
+  - first:
+      213: -7474143126546438620
+    second: Mussuh 5_191
+  - first:
+      213: 180978141806052905
+    second: Mussuh 5_192
+  - first:
+      213: -8591828034218096049
+    second: Mussuh 5_193
+  - first:
+      213: -7943825471166453725
+    second: Mussuh 5_194
+  - first:
+      213: -5268762180258910644
+    second: Mussuh 5_195
+  - first:
+      213: 5374729140138408758
+    second: Mussuh 5_196
+  - first:
+      213: -1159387862880535519
+    second: Mussuh 5_197
+  - first:
+      213: 8161738382685096525
+    second: Mussuh 5_198
+  - first:
+      213: -6108567044239869172
+    second: Mussuh 5_199
+  - first:
+      213: 4870018433161887442
+    second: Mussuh 5_200
+  - first:
+      213: 22920498106459341
+    second: Mussuh 5_201
+  - first:
+      213: 7894648867147990582
+    second: Mussuh 5_202
+  - first:
+      213: 2427549809356558255
+    second: Mussuh 5_203
+  - first:
+      213: -3605125988059948319
+    second: Mussuh 5_204
+  - first:
+      213: -7069732254589649993
+    second: Mussuh 5_205
+  - first:
+      213: 4868732398501268851
+    second: Mussuh 5_206
+  - first:
+      213: -7259296282606846247
+    second: Mussuh 5_207
+  - first:
+      213: 8119250316609240369
+    second: Mussuh 5_208
+  - first:
+      213: -9184808066994264808
+    second: Mussuh 5_209
+  - first:
+      213: 3440547080999415075
+    second: Mussuh 5_210
+  - first:
+      213: -7363526152901857432
+    second: Mussuh 5_211
+  - first:
+      213: -4935344697197749655
+    second: Mussuh 5_212
+  - first:
+      213: 2600648027443876643
+    second: Mussuh 5_213
+  - first:
+      213: -4391369946297316773
+    second: Mussuh 5_214
+  - first:
+      213: -3949610430570772557
+    second: Mussuh 5_215
+  - first:
+      213: 457124983681005660
+    second: Mussuh 5_216
+  - first:
+      213: -2973941392580012376
+    second: Mussuh 5_217
+  - first:
+      213: -3754512620256627243
+    second: Mussuh 5_218
+  - first:
+      213: 8039529181960085530
+    second: Mussuh 5_219
+  - first:
+      213: -1419447162348562641
+    second: Mussuh 5_220
+  - first:
+      213: 3187793667283318013
+    second: Mussuh 5_221
+  - first:
+      213: -4045087700001287042
+    second: Mussuh 5_222
+  - first:
+      213: 3117106582256520812
+    second: Mussuh 5_223
+  - first:
+      213: -4416195982401465502
+    second: Mussuh 5_224
+  - first:
+      213: -9028272958882181025
+    second: Mussuh 5_225
+  - first:
+      213: -3536847653713181838
+    second: Mussuh 5_226
+  - first:
+      213: 441603184869145592
+    second: Mussuh 5_227
+  - first:
+      213: -5523708670328800068
+    second: Mussuh 5_228
+  - first:
+      213: 8256248058861452980
+    second: Mussuh 5_229
+  - first:
+      213: 6246792282216680565
+    second: Mussuh 5_230
+  - first:
+      213: -4153991876828250839
+    second: Mussuh 5_231
+  - first:
+      213: 8814555401966338008
+    second: Mussuh 5_232
+  - first:
+      213: 2205640003584330927
+    second: Mussuh 5_233
+  - first:
+      213: -7493297788231762146
+    second: Mussuh 5_234
+  - first:
+      213: 3055904518798574742
+    second: Mussuh 5_235
+  - first:
+      213: -3102956845046582630
+    second: Mussuh 5_236
+  - first:
+      213: -5107644423177397084
+    second: Mussuh 5_237
+  - first:
+      213: 1925138841318640266
+    second: Mussuh 5_238
+  - first:
+      213: -727466654840274341
+    second: Mussuh 5_239
+  - first:
+      213: 3867383774186597360
+    second: Mussuh 5_240
+  - first:
+      213: 2326932438127254961
+    second: Mussuh 5_241
+  - first:
+      213: -6428254065700982071
+    second: Mussuh 5_242
+  - first:
+      213: -8540429576134484830
+    second: Mussuh 5_243
+  - first:
+      213: 3861513879237688352
+    second: Mussuh 5_244
+  - first:
+      213: -8602541689098995633
+    second: Mussuh 5_245
+  - first:
+      213: 8289396557312064981
+    second: Mussuh 5_246
+  - first:
+      213: -3913446573139454165
+    second: Mussuh 5_247
+  - first:
+      213: -6049058674799183170
+    second: Mussuh 5_248
+  - first:
+      213: -4203238522060708428
+    second: Mussuh 5_249
+  - first:
+      213: 3557191277817768244
+    second: Mussuh 5_250
+  - first:
+      213: -6217637363932602264
+    second: Mussuh 5_251
+  - first:
+      213: 3300450415856486774
+    second: Mussuh 5_252
+  - first:
+      213: 1407723016461450251
+    second: Mussuh 5_253
+  - first:
+      213: 717331741803310872
+    second: Mussuh 5_254
+  - first:
+      213: -5771194163882164270
+    second: Mussuh 5_255
+  - first:
+      213: 953744721385568836
+    second: Mussuh 5_256
+  - first:
+      213: 8349816166752564743
+    second: Mussuh 5_257
+  - first:
+      213: -856734525855239590
+    second: Mussuh 5_258
+  - first:
+      213: 7297936093820903398
+    second: Mussuh 5_259
+  - first:
+      213: 1790125803539303140
+    second: Mussuh 5_260
+  - first:
+      213: 1328024127708885289
+    second: Mussuh 5_261
+  - first:
+      213: -3515305332015038907
+    second: Mussuh 5_262
+  - first:
+      213: -597709007937094083
+    second: Mussuh 5_263
+  - first:
+      213: 7712621907189428820
+    second: Mussuh 5_264
+  - first:
+      213: 8923028472710501594
+    second: Mussuh 5_265
+  - first:
+      213: 6516809373720163309
+    second: Mussuh 5_266
+  - first:
+      213: 2389422788830183514
+    second: Mussuh 5_267
+  - first:
+      213: 8139431987558804271
+    second: Mussuh 5_268
+  - first:
+      213: -8182418034001219185
+    second: Mussuh 5_269
+  - first:
+      213: 868174810336746519
+    second: Mussuh 5_270
+  - first:
+      213: 6813884820404334041
+    second: Mussuh 5_271
+  - first:
+      213: 2355048697509860423
+    second: Mussuh 5_272
+  - first:
+      213: 8427564337229084777
+    second: Mussuh 5_273
+  - first:
+      213: 1853695571767604261
+    second: Mussuh 5_274
+  - first:
+      213: 6770312063918704313
+    second: Mussuh 5_275
+  - first:
+      213: -4868255257510190155
+    second: Mussuh 5_276
+  - first:
+      213: -1398138277536414261
+    second: Mussuh 5_277
+  - first:
+      213: -5063305889962706634
+    second: Mussuh 5_278
+  - first:
+      213: 5857825885775687020
+    second: Mussuh 5_279
+  - first:
+      213: -5104207584284725517
+    second: Mussuh 5_280
+  - first:
+      213: 2533323230309791262
+    second: Mussuh 5_281
+  - first:
+      213: -4128884113393744556
+    second: Mussuh 5_282
+  - first:
+      213: -4968462658506642571
+    second: Mussuh 5_283
+  - first:
+      213: 6467219148037136865
+    second: Mussuh 5_284
+  - first:
+      213: -383732380462749342
+    second: Mussuh 5_285
+  - first:
+      213: -5459799897187666141
+    second: Mussuh 5_286
+  - first:
+      213: 1609307934549678723
+    second: Mussuh 5_287
+  - first:
+      213: -4876809375243446537
+    second: Mussuh 5_288
+  - first:
+      213: -8253108212080677003
+    second: Mussuh 5_289
+  - first:
+      213: 2541097825145955439
+    second: Mussuh 5_290
+  - first:
+      213: 4255822607887386249
+    second: Mussuh 5_291
+  - first:
+      213: 8002638924586020805
+    second: Mussuh 5_292
+  - first:
+      213: -4938488303450611308
+    second: Mussuh 5_293
+  - first:
+      213: -5602152028418021646
+    second: Mussuh 5_294
+  - first:
+      213: 3030016624228587287
+    second: Mussuh 5_295
+  - first:
+      213: -4869896977195525299
+    second: Mussuh 5_296
+  - first:
+      213: 5611792719686380627
+    second: Mussuh 5_297
+  - first:
+      213: -7504627865471549857
+    second: Mussuh 5_298
+  - first:
+      213: 1840988955673702259
+    second: Mussuh 5_299
+  - first:
+      213: -1371616917925023196
+    second: Mussuh 5_300
+  - first:
+      213: -5135755808200985675
+    second: Mussuh 5_301
+  - first:
+      213: 8425721442154769620
+    second: Mussuh 5_302
+  - first:
+      213: -4023672378456192825
+    second: Mussuh 5_303
+  - first:
+      213: 4802962669626919970
+    second: Mussuh 5_304
+  - first:
+      213: 7139838502179135440
+    second: Mussuh 5_305
+  - first:
+      213: 3060557778099577992
+    second: Mussuh 5_306
+  - first:
+      213: 6301540325749691629
+    second: Mussuh 5_307
+  - first:
+      213: 3406279770133682477
+    second: Mussuh 5_308
+  - first:
+      213: -8311932291427916674
+    second: Mussuh 5_309
+  - first:
+      213: -8263838560562199346
+    second: Mussuh 5_310
+  - first:
+      213: 2804916387140643161
+    second: Mussuh 5_311
+  - first:
+      213: 336475660003592267
+    second: Mussuh 5_312
+  - first:
+      213: 5598004099463957364
+    second: Mussuh 5_313
+  - first:
+      213: 494872384706732111
+    second: Mussuh 5_314
+  - first:
+      213: -1948339239590487752
+    second: Mussuh 5_315
+  - first:
+      213: 3432256464101710146
+    second: Mussuh 5_316
+  - first:
+      213: -4906766294636728650
+    second: Mussuh 5_317
+  - first:
+      213: -5442097785349539702
+    second: Mussuh 5_318
+  - first:
+      213: 8459183141545489791
+    second: Mussuh 5_319
+  - first:
+      213: -4721735690779740610
+    second: Mussuh 5_320
+  - first:
+      213: -453235790879025727
+    second: Mussuh 5_321
+  - first:
+      213: -3942195229226619859
+    second: Mussuh 5_322
+  - first:
+      213: -1734024935051664163
+    second: Mussuh 5_323
+  - first:
+      213: -5414881163869047210
+    second: Mussuh 5_324
+  - first:
+      213: -6147250306316837402
+    second: Mussuh 5_325
+  - first:
+      213: -6058899883541099129
+    second: Mussuh 5_326
+  - first:
+      213: -3608064453271827179
+    second: Mussuh 5_327
+  - first:
+      213: -6815014677652076725
+    second: Mussuh 5_328
+  - first:
+      213: 3771419425956391850
+    second: Mussuh 5_329
+  - first:
+      213: 5223782089361578252
+    second: Mussuh 5_330
+  - first:
+      213: 3078531657919574832
+    second: Mussuh 5_331
+  - first:
+      213: 2015456300121885306
+    second: Mussuh 5_332
+  - first:
+      213: 4362887369726765300
+    second: Mussuh 5_333
+  - first:
+      213: 8122783478532133407
+    second: Mussuh 5_334
+  - first:
+      213: 7770170134498371622
+    second: Mussuh 5_335
+  - first:
+      213: -2818509019109610504
+    second: Mussuh 5_336
+  - first:
+      213: -1297136926382917899
+    second: Mussuh 5_337
+  - first:
+      213: -629250192722302233
+    second: Mussuh 5_338
+  - first:
+      213: 3753284540516603761
+    second: Mussuh 5_339
+  - first:
+      213: 3298615870310834403
+    second: Mussuh 5_340
+  - first:
+      213: 2734728403569965867
+    second: Mussuh 5_341
+  - first:
+      213: 3772881976413377172
+    second: Mussuh 5_342
+  - first:
+      213: 3624224056408822986
+    second: Mussuh 5_343
+  - first:
+      213: 3714055645281274435
+    second: Mussuh 5_344
+  - first:
+      213: -9124575849686342327
+    second: Mussuh 5_345
+  - first:
+      213: -5124657673148421908
+    second: Mussuh 5_346
+  - first:
+      213: 3548815411642977246
+    second: Mussuh 5_347
+  - first:
+      213: 1603613977107881312
+    second: Mussuh 5_348
+  - first:
+      213: -6044617548546680589
+    second: Mussuh 5_349
+  - first:
+      213: 2611445529851747794
+    second: Mussuh 5_350
+  - first:
+      213: 8657072687465365444
+    second: Mussuh 5_351
+  - first:
+      213: 6841006187459550575
+    second: Mussuh 5_352
+  - first:
+      213: -1255882049646125637
+    second: Mussuh 5_353
+  - first:
+      213: -5984970265602761977
+    second: Mussuh 5_354
+  - first:
+      213: 3816488779545873411
+    second: Mussuh 5_355
+  - first:
+      213: -4730749545889620166
+    second: Mussuh 5_356
+  - first:
+      213: -4691859319136004125
+    second: Mussuh 5_357
+  - first:
+      213: 293274967097363455
+    second: Mussuh 5_358
+  - first:
+      213: -6900850887756482215
+    second: Mussuh 5_359
+  - first:
+      213: -2494999102185686600
+    second: Mussuh 5_360
+  - first:
+      213: -5248483574196941278
+    second: Mussuh 5_361
+  - first:
+      213: 8511379394261406603
+    second: Mussuh 5_362
+  - first:
+      213: 5205896358782814822
+    second: Mussuh 5_363
+  - first:
+      213: 6263534356759706898
+    second: Mussuh 5_364
+  - first:
+      213: 3115407444845080911
+    second: Mussuh 5_365
+  - first:
+      213: -8435036427115864294
+    second: Mussuh 5_366
+  - first:
+      213: 7379886995454857990
+    second: Mussuh 5_367
+  - first:
+      213: -999605724392275430
+    second: Mussuh 5_368
+  - first:
+      213: -8464218486145149663
+    second: Mussuh 5_369
+  - first:
+      213: 3000275722388225906
+    second: Mussuh 5_370
+  - first:
+      213: 8700179990283837172
+    second: Mussuh 5_371
+  - first:
+      213: 3904111241266983942
+    second: Mussuh 5_372
+  - first:
+      213: -2176490897538226505
+    second: Mussuh 5_373
+  - first:
+      213: -772038077764885705
+    second: Mussuh 5_374
+  - first:
+      213: 6053299572509072210
+    second: Mussuh 5_375
+  - first:
+      213: -5063657128684228291
+    second: Mussuh 5_376
+  - first:
+      213: -5448436295072635965
+    second: Mussuh 5_377
+  - first:
+      213: -4768762595104004266
+    second: Mussuh 5_378
+  - first:
+      213: -6688523692986559325
+    second: Mussuh 5_379
+  - first:
+      213: -8633802361670533672
+    second: Mussuh 5_380
+  - first:
+      213: -6419799930304729464
+    second: Mussuh 5_381
+  - first:
+      213: -9194958052180405456
+    second: Mussuh 5_382
+  - first:
+      213: 1948267869935688161
+    second: Mussuh 5_383
+  - first:
+      213: 3212832413417997855
+    second: Mussuh 5_384
+  - first:
+      213: 5415350436216257711
+    second: Mussuh 5_385
+  - first:
+      213: -4219153741548262471
+    second: Mussuh 5_386
+  - first:
+      213: 5506989347602881158
+    second: Mussuh 5_387
+  - first:
+      213: -8585380496449522521
+    second: Mussuh 5_388
+  - first:
+      213: 2309117974716096317
+    second: Mussuh 5_389
+  - first:
+      213: 8917898822096130368
+    second: Mussuh 5_390
+  - first:
+      213: -8300860251232747003
+    second: Mussuh 5_391
+  - first:
+      213: -6229630699306217964
+    second: Mussuh 5_392
+  - first:
+      213: 3475518009768604588
+    second: Mussuh 5_393
+  - first:
+      213: -4524282651417417454
+    second: Mussuh 5_394
+  - first:
+      213: -5853252067538781746
+    second: Mussuh 5_395
+  - first:
+      213: 5949503131162590955
+    second: Mussuh 5_396
+  - first:
+      213: 4311791214229196753
+    second: Mussuh 5_397
+  - first:
+      213: 2738935675051942921
+    second: Mussuh 5_398
+  - first:
+      213: 6978150616296496331
+    second: Mussuh 5_399
+  - first:
+      213: -6477909720337239018
+    second: Mussuh 5_400
+  - first:
+      213: 4256248473976661165
+    second: Mussuh 5_401
+  - first:
+      213: 4067862509443691786
+    second: Mussuh 5_402
+  - first:
+      213: -6343885475988789695
+    second: Mussuh 5_403
+  - first:
+      213: 8834541971376098019
+    second: Mussuh 5_404
+  - first:
+      213: -5957940825344479574
+    second: Mussuh 5_405
+  - first:
+      213: -6708060300464839598
+    second: Mussuh 5_406
+  - first:
+      213: -210421818071390503
+    second: Mussuh 5_407
+  - first:
+      213: -2565931160127503887
+    second: Mussuh 5_408
+  - first:
+      213: -3392924077963208905
+    second: Mussuh 5_409
+  - first:
+      213: 5881183894163438460
+    second: Mussuh 5_410
+  - first:
+      213: -2393963362826461874
+    second: Mussuh 5_411
+  - first:
+      213: 6019668691908038943
+    second: Mussuh 5_412
+  - first:
+      213: 5064463718327245643
+    second: Mussuh 5_413
+  - first:
+      213: 3509151213736710457
+    second: Mussuh 5_414
+  - first:
+      213: 5651264841367703443
+    second: Mussuh 5_415
+  - first:
+      213: -2861078794823417444
+    second: Mussuh 5_416
+  - first:
+      213: 137537880993563869
+    second: Mussuh 5_417
+  - first:
+      213: -6263597484635240006
+    second: Mussuh 5_418
+  - first:
+      213: -4303151053424778467
+    second: Mussuh 5_419
+  - first:
+      213: 4828729391465056568
+    second: Mussuh 5_420
+  - first:
+      213: 4049715978448193315
+    second: Mussuh 5_421
+  - first:
+      213: 1995531860062677218
+    second: Mussuh 5_422
+  - first:
+      213: -8706748060647057181
+    second: Mussuh 5_423
+  - first:
+      213: 5344242647023054434
+    second: Mussuh 5_424
+  - first:
+      213: 2068112042191614184
+    second: Mussuh 5_425
+  - first:
+      213: 8062401785756406567
+    second: Mussuh 5_426
+  - first:
+      213: 4502354743711223461
+    second: Mussuh 5_427
+  - first:
+      213: 4823404663128933326
+    second: Mussuh 5_428
+  - first:
+      213: 7962779626646023575
+    second: Mussuh 5_429
+  - first:
+      213: 149047025621671283
+    second: Mussuh 5_430
+  - first:
+      213: 5075944798354276715
+    second: Mussuh 5_431
+  - first:
+      213: -2568559199087105050
+    second: Mussuh 5_432
+  - first:
+      213: 3813104498441938443
+    second: Mussuh 5_433
+  - first:
+      213: -7281059059901357220
+    second: Mussuh 5_434
+  - first:
+      213: -7889128851379749613
+    second: Mussuh 5_435
+  - first:
+      213: 4683237362934469495
+    second: Mussuh 5_436
+  - first:
+      213: 6644347185682516075
+    second: Mussuh 5_437
+  - first:
+      213: 6924043265394350152
+    second: Mussuh 5_438
+  - first:
+      213: -1226236065948692101
+    second: Mussuh 5_439
+  - first:
+      213: 6720532244382213959
+    second: Mussuh 5_440
+  - first:
+      213: -5977391226877536402
+    second: Mussuh 5_441
+  - first:
+      213: 1850080865391008205
+    second: Mussuh 5_442
+  - first:
+      213: -4952830251805014820
+    second: Mussuh 5_443
+  - first:
+      213: 3326420975019938858
+    second: Mussuh 5_444
+  - first:
+      213: -6025836687674550935
+    second: Mussuh 5_445
+  - first:
+      213: -4397100083573031644
+    second: Mussuh 5_446
+  - first:
+      213: 1004338920764423146
+    second: Mussuh 5_447
+  - first:
+      213: -7369567403193262951
+    second: Mussuh 5_448
+  - first:
+      213: 4446133380504888904
+    second: Mussuh 5_449
+  - first:
+      213: -7820756093826122026
+    second: Mussuh 5_450
+  - first:
+      213: 2970579096302659363
+    second: Mussuh 5_451
+  - first:
+      213: 3665258881129229016
+    second: Mussuh 5_452
+  - first:
+      213: -732566881989417636
+    second: Mussuh 5_453
+  - first:
+      213: -7459905030596370869
+    second: Mussuh 5_454
+  - first:
+      213: 6569065409040953276
+    second: Mussuh 5_455
+  - first:
+      213: -4852867606202987542
+    second: Mussuh 5_456
+  - first:
+      213: 5352231912304607716
+    second: Mussuh 5_457
+  - first:
+      213: 1771978904710706954
+    second: Mussuh 5_458
+  - first:
+      213: 452763821179000885
+    second: Mussuh 5_459
+  - first:
+      213: -8654597500378823961
+    second: Mussuh 5_460
+  - first:
+      213: -1414003292073833717
+    second: Mussuh 5_461
+  - first:
+      213: -6308035497440763649
+    second: Mussuh 5_462
+  - first:
+      213: -1709963612653702284
+    second: Mussuh 5_463
+  - first:
+      213: 2000112429400681230
+    second: Mussuh 5_464
+  - first:
+      213: -7369623185230129301
+    second: Mussuh 5_465
+  - first:
+      213: -7134730355452415956
+    second: Mussuh 5_466
+  - first:
+      213: -4868882867114430223
+    second: Mussuh 5_467
+  - first:
+      213: 4533216098173805167
+    second: Mussuh 5_468
+  - first:
+      213: 5056995846857246438
+    second: Mussuh 5_469
+  - first:
+      213: 584348531235259314
+    second: Mussuh 5_470
+  - first:
+      213: 3369982245588592902
+    second: Mussuh 5_471
+  - first:
+      213: -5214932555478404260
+    second: Mussuh 5_472
+  - first:
+      213: -3891845355086682894
+    second: Mussuh 5_473
+  - first:
+      213: 2646623447288952437
+    second: Mussuh 5_474
+  - first:
+      213: -9141136915853996496
+    second: Mussuh 5_475
+  - first:
+      213: 5458790941911409249
+    second: Mussuh 5_476
+  - first:
+      213: -5917350847975484772
+    second: Mussuh 5_477
+  - first:
+      213: 1077175937436969416
+    second: Mussuh 5_478
+  - first:
+      213: -1167399763494854064
+    second: Mussuh 5_479
+  - first:
+      213: 6626482989960484370
+    second: Mussuh 5_480
+  - first:
+      213: -7782398816767058271
+    second: Mussuh 5_481
+  - first:
+      213: -69279972960908475
+    second: Mussuh 5_482
+  - first:
+      213: 2473163016784657024
+    second: Mussuh 5_483
+  - first:
+      213: 4474507490358536401
+    second: Mussuh 5_484
+  - first:
+      213: -751145067221286196
+    second: Mussuh 5_485
+  - first:
+      213: 5147420109344258309
+    second: Mussuh 5_486
+  - first:
+      213: -5740866824631250399
+    second: Mussuh 5_487
+  - first:
+      213: 1755168264427718215
+    second: Mussuh 5_488
+  - first:
+      213: -8379051421849948851
+    second: Mussuh 5_489
+  - first:
+      213: -6505072612010953662
+    second: Mussuh 5_490
+  - first:
+      213: -4552803102379329284
+    second: Mussuh 5_491
+  - first:
+      213: -6945166237517710995
+    second: Mussuh 5_492
+  - first:
+      213: -6176952516515092201
+    second: Mussuh 5_493
+  - first:
+      213: 7845748977397491206
+    second: Mussuh 5_494
+  - first:
+      213: 4319073696380463982
+    second: Mussuh 5_495
+  - first:
+      213: -9115921738533223155
+    second: Mussuh 5_496
+  - first:
+      213: -4772766454262285598
+    second: Mussuh 5_497
+  - first:
+      213: 8410614430462178389
+    second: Mussuh 5_498
+  - first:
+      213: 6118923618574142168
+    second: Mussuh 5_499
+  - first:
+      213: -3478599447020602343
+    second: Mussuh 5_500
+  - first:
+      213: 5437975270361712192
+    second: Mussuh 5_501
+  - first:
+      213: -2579261244917811623
+    second: Mussuh 5_502
+  - first:
+      213: 5973931001072320027
+    second: Mussuh 5_503
+  - first:
+      213: -2298735447295365447
+    second: Mussuh 5_504
+  - first:
+      213: -2393406995792425465
+    second: Mussuh 5_505
+  - first:
+      213: 7191969728539392277
+    second: Mussuh 5_506
+  - first:
+      213: -7114825834939443090
+    second: Mussuh 5_507
+  - first:
+      213: -633570415651338660
+    second: Mussuh 5_508
+  - first:
+      213: -6190547854036393609
+    second: Mussuh 5_509
+  - first:
+      213: 7844719806583093960
+    second: Mussuh 5_510
+  - first:
+      213: 6030595690462995267
+    second: Mussuh 5_511
+  - first:
+      213: 2990319245646324708
+    second: Mussuh 5_512
+  - first:
+      213: -7786827614470188312
+    second: Mussuh 5_513
+  - first:
+      213: -2855240915779991231
+    second: Mussuh 5_514
+  - first:
+      213: -4009094780450577035
+    second: Mussuh 5_515
+  - first:
+      213: 8293106578541920963
+    second: Mussuh 5_516
+  - first:
+      213: 4430554117303942405
+    second: Mussuh 5_517
+  - first:
+      213: -1496229634985955301
+    second: Mussuh 5_518
+  - first:
+      213: -960307007812317053
+    second: Mussuh 5_519
+  - first:
+      213: -3533569841335962321
+    second: Mussuh 5_520
+  - first:
+      213: -7573301021886570413
+    second: Mussuh 5_521
+  - first:
+      213: -285098954662728632
+    second: Mussuh 5_522
+  - first:
+      213: -4459016958704584382
+    second: Mussuh 5_523
+  - first:
+      213: -4832745729371710259
+    second: Mussuh 5_524
+  - first:
+      213: 4970067352120335104
+    second: Mussuh 5_525
+  - first:
+      213: -704422618612822112
+    second: Mussuh 5_526
+  - first:
+      213: -2414193351283441086
+    second: Mussuh 5_527
+  - first:
+      213: 7360767270374199083
+    second: Mussuh 5_528
+  - first:
+      213: 6210484733444748158
+    second: Mussuh 5_529
+  - first:
+      213: -4152235977476764870
+    second: Mussuh 5_530
+  - first:
+      213: 2486134910743555028
+    second: Mussuh 5_531
+  - first:
+      213: 6063562046882162453
+    second: Mussuh 5_532
+  - first:
+      213: -7295416946554739399
+    second: Mussuh 5_533
+  - first:
+      213: -7835759750943271584
+    second: Mussuh 5_534
+  - first:
+      213: -495323861516297514
+    second: Mussuh 5_535
+  - first:
+      213: 5781073589641276869
+    second: Mussuh 5_536
+  - first:
+      213: 8144985306719079775
+    second: Mussuh 5_537
+  - first:
+      213: 7575107971127942086
+    second: Mussuh 5_538
+  - first:
+      213: 1159765272494310710
+    second: Mussuh 5_539
+  - first:
+      213: -3161459553701623447
+    second: Mussuh 5_540
+  - first:
+      213: 5608409510547121070
+    second: Mussuh 5_541
+  - first:
+      213: 2388391931422301407
+    second: Mussuh 5_542
+  - first:
+      213: -8077727358746764556
+    second: Mussuh 5_543
+  - first:
+      213: -647090150619147320
+    second: Mussuh 5_544
+  - first:
+      213: -7640916340456705398
+    second: Mussuh 5_545
+  - first:
+      213: -5308164555727919076
+    second: Mussuh 5_546
+  - first:
+      213: 7043342972892168078
+    second: Mussuh 5_547
+  - first:
+      213: -2657210489812508959
+    second: Mussuh 5_548
+  - first:
+      213: -1172754796350273409
+    second: Mussuh 5_549
+  - first:
+      213: 3636810625065856089
+    second: Mussuh 5_550
+  - first:
+      213: 3571733459832633815
+    second: Mussuh 5_551
+  - first:
+      213: -8589773131749444294
+    second: Mussuh 5_552
+  - first:
+      213: -7853140187383384184
+    second: Mussuh 5_553
+  - first:
+      213: -3410853085805128325
+    second: Mussuh 5_554
+  - first:
+      213: -6267286612957876442
+    second: Mussuh 5_555
+  - first:
+      213: -9004863929500658619
+    second: Mussuh 5_556
+  - first:
+      213: -1939102836810408023
+    second: Mussuh 5_557
+  - first:
+      213: 8188303940587115718
+    second: Mussuh 5_558
+  - first:
+      213: 6496152815337056868
+    second: Mussuh 5_559
+  - first:
+      213: -1970697086379113159
+    second: Mussuh 5_560
+  - first:
+      213: 1480094014802953772
+    second: Mussuh 5_561
+  - first:
+      213: 8582075239873449594
+    second: Mussuh 5_562
+  - first:
+      213: -3070732727915532018
+    second: Mussuh 5_563
+  - first:
+      213: -2125880786648635355
+    second: Mussuh 5_564
+  - first:
+      213: 3732866315578190322
+    second: Mussuh 5_565
+  - first:
+      213: -3455163635922864693
+    second: Mussuh 5_566
+  - first:
+      213: 6650057264781813615
+    second: Mussuh 5_567
+  - first:
+      213: 8611043413563052681
+    second: Mussuh 5_568
+  - first:
+      213: -246539760995809252
+    second: Mussuh 5_569
+  - first:
+      213: -7014904531158826761
+    second: Mussuh 5_570
+  - first:
+      213: -1384523819957004373
+    second: Mussuh 5_571
+  - first:
+      213: -3059647730706232415
+    second: Mussuh 5_572
+  - first:
+      213: -2781127264799773191
+    second: Mussuh 5_573
+  - first:
+      213: -4101307940162831363
+    second: Mussuh 5_574
+  - first:
+      213: -8610642620069536114
+    second: Mussuh 5_575
+  - first:
+      213: 4873018760505281939
+    second: Mussuh 5_576
+  - first:
+      213: -9153055294200892505
+    second: Mussuh 5_577
+  - first:
+      213: 8327551315215103804
+    second: Mussuh 5_578
+  - first:
+      213: 2036607060888074668
+    second: Mussuh 5_579
+  - first:
+      213: 2510223133906469299
+    second: Mussuh 5_580
+  - first:
+      213: -6143022647887863250
+    second: Mussuh 5_581
+  - first:
+      213: -8378425861019385941
+    second: Mussuh 5_582
+  - first:
+      213: 774255082603152981
+    second: Mussuh 5_583
+  - first:
+      213: 7641591128054608393
+    second: Mussuh 5_584
+  - first:
+      213: -1484028769316759480
+    second: Mussuh 5_585
+  - first:
+      213: 3294752317765436650
+    second: Mussuh 5_586
+  - first:
+      213: 6546846321925274951
+    second: Mussuh 5_587
+  - first:
+      213: -1366097881364628838
+    second: Mussuh 5_588
+  - first:
+      213: 6801827238483675742
+    second: Mussuh 5_589
+  - first:
+      213: 6515864655384263657
+    second: Mussuh 5_590
+  - first:
+      213: -1036624758914217044
+    second: Mussuh 5_591
+  - first:
+      213: -4322998080430732507
+    second: Mussuh 5_592
+  - first:
+      213: 3336771452662768038
+    second: Mussuh 5_593
+  - first:
+      213: -2679195821009476649
+    second: Mussuh 5_594
+  - first:
+      213: 4613815050174744981
+    second: Mussuh 5_595
+  - first:
+      213: 964135368698607462
+    second: Mussuh 5_596
+  - first:
+      213: -2356835571979302790
+    second: Mussuh 5_597
+  - first:
+      213: -7277182680268822987
+    second: Mussuh 5_598
+  - first:
+      213: -5660240609245858734
+    second: Mussuh 5_599
+  - first:
+      213: -5974732461424513759
+    second: Mussuh 5_600
+  - first:
+      213: 469650310451620313
+    second: Mussuh 5_601
+  - first:
+      213: -284621656679372140
+    second: Mussuh 5_602
+  - first:
+      213: 3860549253026456516
+    second: Mussuh 5_603
+  - first:
+      213: 5024801589018399324
+    second: Mussuh 5_604
+  - first:
+      213: -2983939777877258266
+    second: Mussuh 5_605
+  - first:
+      213: -3308671714686498546
+    second: Mussuh 5_606
+  - first:
+      213: -3202252978658463887
+    second: Mussuh 5_607
+  - first:
+      213: 458464921633190583
+    second: Mussuh 5_608
+  - first:
+      213: -3089468486291299966
+    second: Mussuh 5_609
+  - first:
+      213: -7150639213633165543
+    second: Mussuh 5_610
+  - first:
+      213: 1767087782007422898
+    second: Mussuh 5_611
+  - first:
+      213: -662134377636363508
+    second: Mussuh 5_612
+  - first:
+      213: -6091026733981077646
+    second: Mussuh 5_613
+  - first:
+      213: -1371622760096770140
+    second: Mussuh 5_614
+  - first:
+      213: 8401788056388094421
+    second: Mussuh 5_615
+  - first:
+      213: -4797005133998061720
+    second: Mussuh 5_616
+  - first:
+      213: 5301639130814350706
+    second: Mussuh 5_617
+  - first:
+      213: -7660310924288636005
+    second: Mussuh 5_618
+  - first:
+      213: -2498141724121900863
+    second: Mussuh 5_619
+  - first:
+      213: 3285537475176525610
+    second: Mussuh 5_620
+  - first:
+      213: 7341253851985588672
+    second: Mussuh 5_621
+  - first:
+      213: -7395537668052586725
+    second: Mussuh 5_622
+  - first:
+      213: 774577673356904497
+    second: Mussuh 5_623
+  - first:
+      213: -2223763908125376784
+    second: Mussuh 5_624
+  - first:
+      213: -6883397738728818932
+    second: Mussuh 5_625
+  - first:
+      213: 7301889187161108707
+    second: Mussuh 5_626
+  - first:
+      213: -6514969086262290876
+    second: Mussuh 5_627
+  - first:
+      213: 5911326217413625739
+    second: Mussuh 5_628
+  - first:
+      213: 1086821220450646006
+    second: Mussuh 5_629
+  - first:
+      213: 2094320340210959128
+    second: Mussuh 5_630
+  - first:
+      213: -7498634944846517654
+    second: Mussuh 5_631
+  - first:
+      213: -8797598145565412886
+    second: Mussuh 5_632
+  - first:
+      213: -1180310780750710466
+    second: Mussuh 5_633
+  - first:
+      213: 6794939355569649137
+    second: Mussuh 5_634
+  - first:
+      213: -2152464769100265164
+    second: Mussuh 5_635
+  - first:
+      213: 7362853066723097383
+    second: Mussuh 5_636
+  - first:
+      213: 5004582303001011720
+    second: Mussuh 5_637
+  - first:
+      213: -1427265129720450677
+    second: Mussuh 5_638
+  - first:
+      213: 5677585576759926260
+    second: Mussuh 5_639
+  - first:
+      213: 2041027221140871164
+    second: Mussuh 5_640
+  - first:
+      213: -8294847968038969786
+    second: Mussuh 5_641
+  - first:
+      213: 5256789417281970825
+    second: Mussuh 5_642
+  - first:
+      213: -8499451619861856974
+    second: Mussuh 5_643
+  - first:
+      213: 2848898145936383089
+    second: Mussuh 5_644
+  - first:
+      213: -8628433228224845691
+    second: Mussuh 5_645
+  - first:
+      213: 378695947618547422
+    second: Mussuh 5_646
+  - first:
+      213: -2354668331017934781
+    second: Mussuh 5_647
+  - first:
+      213: -8924637186069022952
+    second: Mussuh 5_648
+  - first:
+      213: 1573994149333292315
+    second: Mussuh 5_649
+  - first:
+      213: -4052830915603801898
+    second: Mussuh 5_650
+  - first:
+      213: -1605371260637020843
+    second: Mussuh 5_651
+  - first:
+      213: -7029540350168672697
+    second: Mussuh 5_652
+  - first:
+      213: -1411202926085154273
+    second: Mussuh 5_653
+  - first:
+      213: 8786651683073342151
+    second: Mussuh 5_654
+  - first:
+      213: -4905714815458804046
+    second: Mussuh 5_655
+  - first:
+      213: 4728842235105863157
+    second: Mussuh 5_656
+  - first:
+      213: -1125937082519345340
+    second: Mussuh 5_657
+  - first:
+      213: 4243250018898618909
+    second: Mussuh 5_658
+  - first:
+      213: -3372614017631544159
+    second: Mussuh 5_659
+  - first:
+      213: -6717217619266159058
+    second: Mussuh 5_660
+  - first:
+      213: -7530138835951108885
+    second: Mussuh 5_661
+  - first:
+      213: 1239661664453261623
+    second: Mussuh 5_662
+  - first:
+      213: 7073434515235988755
+    second: Mussuh 5_663
+  - first:
+      213: -397243891833453478
+    second: Mussuh 5_664
+  - first:
+      213: 1359224980571147989
+    second: Mussuh 5_665
+  - first:
+      213: 2793845443606016071
+    second: Mussuh 5_666
+  - first:
+      213: -119802853219405264
+    second: Mussuh 5_667
+  - first:
+      213: -9193406288432334608
+    second: Mussuh 5_668
+  - first:
+      213: -2339956012354170339
+    second: Mussuh 5_669
+  - first:
+      213: -8582472048353417270
+    second: Mussuh 5_670
+  - first:
+      213: -8121718757743014908
+    second: Mussuh 5_671
+  - first:
+      213: 2123749067608936527
+    second: Mussuh 5_672
+  - first:
+      213: -1112504839174219878
+    second: Mussuh 5_673
+  - first:
+      213: 7956961597442227253
+    second: Mussuh 5_674
+  - first:
+      213: 5307192122879861097
+    second: Mussuh 5_675
+  - first:
+      213: -9151164035016385000
+    second: Mussuh 5_676
+  - first:
+      213: -1324565133849237640
+    second: Mussuh 5_677
+  - first:
+      213: -1615357439278372058
+    second: Mussuh 5_678
+  - first:
+      213: 3791241501814164264
+    second: Mussuh 5_679
+  - first:
+      213: 7128254580170120811
+    second: Mussuh 5_680
+  - first:
+      213: 2218860235043583737
+    second: Mussuh 5_681
+  - first:
+      213: 4195288766314939756
+    second: Mussuh 5_682
+  - first:
+      213: 3313903091875716477
+    second: Mussuh 5_683
+  - first:
+      213: 8541493889208339580
+    second: Mussuh 5_684
+  - first:
+      213: -1870012791964692994
+    second: Mussuh 5_685
+  - first:
+      213: 5334508444330035837
+    second: Mussuh 5_686
+  - first:
+      213: -2209696824827623137
+    second: Mussuh 5_687
+  - first:
+      213: 8525956816812171042
+    second: Mussuh 5_688
+  - first:
+      213: 8883809152668008191
+    second: Mussuh 5_689
+  - first:
+      213: 2600754758234677255
+    second: Mussuh 5_690
+  - first:
+      213: -4581283663800195319
+    second: Mussuh 5_691
+  - first:
+      213: 6544567716275857523
+    second: Mussuh 5_692
+  - first:
+      213: 6338822185916579912
+    second: Mussuh 5_693
+  - first:
+      213: -297969730414522643
+    second: Mussuh 5_694
+  - first:
+      213: -3260230793076189551
+    second: Mussuh 5_695
+  - first:
+      213: -820623147493368284
+    second: Mussuh 5_696
+  - first:
+      213: 1867041912043276132
+    second: Mussuh 5_697
+  - first:
+      213: -2411910730951747361
+    second: Mussuh 5_698
+  - first:
+      213: 5280330787625861970
+    second: Mussuh 5_699
+  - first:
+      213: 2837672474846247116
+    second: Mussuh 5_700
+  - first:
+      213: 4012594936923872525
+    second: Mussuh 5_701
+  - first:
+      213: -6457610325461821790
+    second: Mussuh 5_702
+  - first:
+      213: 1430996916175758644
+    second: Mussuh 5_703
+  - first:
+      213: -7604316369631359421
+    second: Mussuh 5_704
+  - first:
+      213: -803713442527287242
+    second: Mussuh 5_705
+  - first:
+      213: -1633967938542909417
+    second: Mussuh 5_706
+  - first:
+      213: 8901606220955535661
+    second: Mussuh 5_707
+  - first:
+      213: -6042804639272761271
+    second: Mussuh 5_708
+  - first:
+      213: 8471469524945434565
+    second: Mussuh 5_709
+  - first:
+      213: 188914482006557522
+    second: Mussuh 5_710
+  - first:
+      213: 471561064241678786
+    second: Mussuh 5_711
+  - first:
+      213: -4461703525143117492
+    second: Mussuh 5_712
+  - first:
+      213: 167510703845095945
+    second: Mussuh 5_713
+  - first:
+      213: -294843260618534191
+    second: Mussuh 5_714
+  - first:
+      213: -2157066520290476332
+    second: Mussuh 5_715
+  - first:
+      213: 4199420631060459926
+    second: Mussuh 5_716
+  - first:
+      213: -6934851458241424201
+    second: Mussuh 5_717
+  - first:
+      213: 2928472889996459598
+    second: Mussuh 5_718
+  - first:
+      213: 5909054687426288381
+    second: Mussuh 5_719
+  - first:
+      213: 747835999291478542
+    second: Mussuh 5_720
+  - first:
+      213: -6114354638890653915
+    second: Mussuh 5_721
+  - first:
+      213: 7941027443996508573
+    second: Mussuh 5_722
+  - first:
+      213: -2861275843435477010
+    second: Mussuh 5_723
+  - first:
+      213: -4360751307334548585
+    second: Mussuh 5_724
+  - first:
+      213: 2486575249130529634
+    second: Mussuh 5_725
+  - first:
+      213: 3854001273058295018
+    second: Mussuh 5_726
+  - first:
+      213: 108313920720546647
+    second: Mussuh 5_727
+  - first:
+      213: 112426987128820851
+    second: Mussuh 5_728
+  - first:
+      213: 2812672885388240598
+    second: Mussuh 5_729
+  - first:
+      213: -8914437893581752213
+    second: Mussuh 5_730
+  - first:
+      213: 7439764305955560781
+    second: Mussuh 5_731
+  - first:
+      213: 1281711447168969963
+    second: Mussuh 5_732
+  - first:
+      213: 6107430455622426751
+    second: Mussuh 5_733
+  - first:
+      213: -6712051448084734570
+    second: Mussuh 5_734
+  - first:
+      213: -3500222678654964147
+    second: Mussuh 5_735
+  - first:
+      213: -2162174706153291154
+    second: Mussuh 5_736
+  - first:
+      213: -4376392254631990302
+    second: Mussuh 5_737
+  - first:
+      213: 8345929478071142273
+    second: Mussuh 5_738
+  - first:
+      213: 8183389941979642343
+    second: Mussuh 5_739
+  - first:
+      213: -3827109879139988021
+    second: Mussuh 5_740
+  - first:
+      213: -7594370680892143470
+    second: Mussuh 5_741
+  - first:
+      213: 601415817867063189
+    second: Mussuh 5_742
+  - first:
+      213: -7777852419192038101
+    second: Mussuh 5_743
+  - first:
+      213: 4885208925050607136
+    second: Mussuh 5_744
+  - first:
+      213: -1076309550808537273
+    second: Mussuh 5_745
+  - first:
+      213: 4905146825992239860
+    second: Mussuh 5_746
+  - first:
+      213: -1266893303345140005
+    second: Mussuh 5_747
+  - first:
+      213: 3156109810344510179
+    second: Mussuh 5_748
+  - first:
+      213: 8543784936356903287
+    second: Mussuh 5_749
+  - first:
+      213: 6900088004554512947
+    second: Mussuh 5_750
+  - first:
+      213: -5655044903867578287
+    second: Mussuh 5_751
+  - first:
+      213: -7847916533962772895
+    second: Mussuh 5_752
+  - first:
+      213: 4701227706978312574
+    second: Mussuh 5_753
+  - first:
+      213: -8698230226151728253
+    second: Mussuh 5_754
+  - first:
+      213: -8983732289352537941
+    second: Mussuh 5_755
+  - first:
+      213: 8306281753657067040
+    second: Mussuh 5_756
+  - first:
+      213: -6283873018366147949
+    second: Mussuh 5_757
+  - first:
+      213: -3312339085094212736
+    second: Mussuh 5_758
+  - first:
+      213: 339492828221942184
+    second: Mussuh 5_759
+  - first:
+      213: -3147846523318527618
+    second: Mussuh 5_760
+  - first:
+      213: -5230347670516342845
+    second: Mussuh 5_761
+  - first:
+      213: -3771425735421456602
+    second: Mussuh 5_762
+  - first:
+      213: 3894210396213352778
+    second: Mussuh 5_763
+  - first:
+      213: 6889818950437408532
+    second: Mussuh 5_764
+  - first:
+      213: -2434091990609580927
+    second: Mussuh 5_765
+  - first:
+      213: -9210213745623600546
+    second: Mussuh 5_766
+  - first:
+      213: -3282045065127257811
+    second: Mussuh 5_767
+  - first:
+      213: 8173397352348216925
+    second: Mussuh 5_768
+  - first:
+      213: -1975003640838730990
+    second: Mussuh 5_769
+  - first:
+      213: 46473363592995635
+    second: Mussuh 5_770
+  - first:
+      213: -7552567778581400240
+    second: Mussuh 5_771
+  - first:
+      213: 4951926690011565776
+    second: Mussuh 5_772
+  - first:
+      213: -991970372937105092
+    second: Mussuh 5_773
+  - first:
+      213: -83606211925270297
+    second: Mussuh 5_774
+  - first:
+      213: -3603803956243323018
+    second: Mussuh 5_775
+  - first:
+      213: 707666559090641427
+    second: Mussuh 5_776
+  - first:
+      213: 822322851740640022
+    second: Mussuh 5_777
+  - first:
+      213: -5297241526866010103
+    second: Mussuh 5_778
+  - first:
+      213: 1045877292574704757
+    second: Mussuh 5_779
+  - first:
+      213: 1633475134566301462
+    second: Mussuh 5_780
+  - first:
+      213: 3423937768548111829
+    second: Mussuh 5_781
+  - first:
+      213: 2256756462096139678
+    second: Mussuh 5_782
+  - first:
+      213: -4557909573206989863
+    second: Mussuh 5_783
+  - first:
+      213: 197957857380572158
+    second: Mussuh 5_784
+  - first:
+      213: 2624714932461417968
+    second: Mussuh 5_785
+  - first:
+      213: -4285168579459096618
+    second: Mussuh 5_786
+  - first:
+      213: 2881525628872257856
+    second: Mussuh 5_787
+  - first:
+      213: -1224808170272591977
+    second: Mussuh 5_788
+  - first:
+      213: 1103386394271507236
+    second: Mussuh 5_789
+  - first:
+      213: -8944413789854197499
+    second: Mussuh 5_790
+  - first:
+      213: 3034932805681440281
+    second: Mussuh 5_791
+  - first:
+      213: 6975042294153910216
+    second: Mussuh 5_792
+  - first:
+      213: -2518479650608245151
+    second: Mussuh 5_793
+  - first:
+      213: -7626343850512514321
+    second: Mussuh 5_794
+  - first:
+      213: -6633284652166267080
+    second: Mussuh 5_795
+  - first:
+      213: -6030966632504552097
+    second: Mussuh 5_796
+  - first:
+      213: 4350001830514707411
+    second: Mussuh 5_797
+  - first:
+      213: 8617053432494924027
+    second: Mussuh 5_798
+  - first:
+      213: 1825790940201077234
+    second: Mussuh 5_799
+  - first:
+      213: -897861812944264111
+    second: Mussuh 5_800
+  - first:
+      213: 286814407827392171
+    second: Mussuh 5_801
+  - first:
+      213: -5557624753690154041
+    second: Mussuh 5_802
+  - first:
+      213: 3850187555485148287
+    second: Mussuh 5_803
+  - first:
+      213: 1663368838820382545
+    second: Mussuh 5_804
+  - first:
+      213: -1037314152403862058
+    second: Mussuh 5_805
+  - first:
+      213: -4085675672473564174
+    second: Mussuh 5_806
+  - first:
+      213: -401604469029352774
+    second: Mussuh 5_807
+  - first:
+      213: -3983289903843407386
+    second: Mussuh 5_808
+  - first:
+      213: -3943168922216164762
+    second: Mussuh 5_809
+  - first:
+      213: 2962989189021491529
+    second: Mussuh 5_810
+  - first:
+      213: -45852107748085264
+    second: Mussuh 5_811
+  - first:
+      213: -5887107151536280708
+    second: Mussuh 5_812
+  - first:
+      213: 6582219969966738517
+    second: Mussuh 5_813
+  - first:
+      213: 7859910704546538510
+    second: Mussuh 5_814
+  - first:
+      213: -623031598710399326
+    second: Mussuh 5_815
+  - first:
+      213: 7827581816986215701
+    second: Mussuh 5_816
+  - first:
+      213: 8026857900746499263
+    second: Mussuh 5_817
+  - first:
+      213: -4385384442963809834
+    second: Mussuh 5_818
+  - first:
+      213: -7306633323603790686
+    second: Mussuh 5_819
+  - first:
+      213: -5904126148455580790
+    second: Mussuh 5_820
+  - first:
+      213: 5204284157114144156
+    second: Mussuh 5_821
+  - first:
+      213: 4006301911218638240
+    second: Mussuh 5_822
+  - first:
+      213: 7331414263223623383
+    second: Mussuh 5_823
+  - first:
+      213: -8741448129924095086
+    second: Mussuh 5_824
+  - first:
+      213: 1484795843361573426
+    second: Mussuh 5_825
+  - first:
+      213: -6698118566648873823
+    second: Mussuh 5_826
+  - first:
+      213: -4848425265222606390
+    second: Mussuh 5_827
+  - first:
+      213: 4797704775508581091
+    second: Mussuh 5_828
+  - first:
+      213: 1211137749292741565
+    second: Mussuh 5_829
+  - first:
+      213: -358026287854475462
+    second: Mussuh 5_830
+  - first:
+      213: -7304561411053908348
+    second: Mussuh 5_831
+  - first:
+      213: -8939455663114713006
+    second: Mussuh 5_832
+  - first:
+      213: 4313611204961484271
+    second: Mussuh 5_833
+  - first:
+      213: -4902349653940994113
+    second: Mussuh 5_834
+  - first:
+      213: -2933304607238982887
+    second: Mussuh 5_835
+  - first:
+      213: 2037934987119986221
+    second: Mussuh 5_836
+  - first:
+      213: -544633821873275262
+    second: Mussuh 5_837
+  - first:
+      213: -8472707427638561171
+    second: Mussuh 5_838
+  - first:
+      213: -5082910283132906472
+    second: Mussuh 5_839
+  - first:
+      213: 7345951590538881676
+    second: Mussuh 5_840
+  - first:
+      213: -8888391654649707305
+    second: Mussuh 5_841
+  - first:
+      213: 2066784077118938532
+    second: Mussuh 5_842
+  - first:
+      213: 1554379466819641073
+    second: Mussuh 5_843
+  - first:
+      213: 4147407370120816737
+    second: Mussuh 5_844
+  - first:
+      213: 3162852208862071934
+    second: Mussuh 5_845
+  - first:
+      213: -382899369104276945
+    second: Mussuh 5_846
+  - first:
+      213: -2640934720949290069
+    second: Mussuh 5_847
+  - first:
+      213: 6536183367736619812
+    second: Mussuh 5_848
+  - first:
+      213: 3924630278007645048
+    second: Mussuh 5_849
+  - first:
+      213: 8048745413881046737
+    second: Mussuh 5_850
+  - first:
+      213: 2152964747141453205
+    second: Mussuh 5_851
+  - first:
+      213: 2991623010890590345
+    second: Mussuh 5_852
+  - first:
+      213: 3323593799718344720
+    second: Mussuh 5_853
+  - first:
+      213: 5825747110230180790
+    second: Mussuh 5_854
+  - first:
+      213: -1150263754699315524
+    second: Mussuh 5_855
+  - first:
+      213: 442058325663464195
+    second: Mussuh 5_856
+  - first:
+      213: -8683542656421428647
+    second: Mussuh 5_857
+  - first:
+      213: -3202216025270318590
+    second: Mussuh 5_858
+  - first:
+      213: -2856291035800334183
+    second: Mussuh 5_859
+  - first:
+      213: 6353236918221241734
+    second: Mussuh 5_860
+  - first:
+      213: 4230205927159729064
+    second: Mussuh 5_861
+  - first:
+      213: 3726562775185978604
+    second: Mussuh 5_862
+  - first:
+      213: -5385639335195387327
+    second: Mussuh 5_863
+  - first:
+      213: 8619524225403466658
+    second: Mussuh 5_864
+  - first:
+      213: 828111914639582518
+    second: Mussuh 5_865
+  - first:
+      213: -4479905239658544099
+    second: Mussuh 5_866
+  - first:
+      213: -4752898760477618688
+    second: Mussuh 5_867
+  - first:
+      213: -4971303586031813321
+    second: Mussuh 5_868
+  - first:
+      213: -7216853416978579165
+    second: Mussuh 5_869
+  - first:
+      213: -992806298553465295
+    second: Mussuh 5_870
+  - first:
+      213: -1948299286157521130
+    second: Mussuh 5_871
+  - first:
+      213: 7989298550350274310
+    second: Mussuh 5_872
+  - first:
+      213: 2892226069950391101
+    second: Mussuh 5_873
+  - first:
+      213: 648308028503359762
+    second: Mussuh 5_874
+  - first:
+      213: 635201150815019169
+    second: Mussuh 5_875
+  - first:
+      213: 6791454857417327961
+    second: Mussuh 5_876
+  - first:
+      213: -2333931725607236738
+    second: Mussuh 5_877
+  - first:
+      213: 3077017686770042264
+    second: Mussuh 5_878
+  - first:
+      213: 3205011934430833791
+    second: Mussuh 5_879
+  - first:
+      213: 7699387531297195934
+    second: Mussuh 5_880
+  - first:
+      213: -8748882270585843303
+    second: Mussuh 5_881
+  - first:
+      213: 4397475640910464116
+    second: Mussuh 5_882
+  - first:
+      213: 6194992312961063952
+    second: Mussuh 5_883
+  - first:
+      213: -519093920307594549
+    second: Mussuh 5_884
+  - first:
+      213: -2418960285738786995
+    second: Mussuh 5_885
+  - first:
+      213: -5106002390349314726
+    second: Mussuh 5_886
+  - first:
+      213: -525054304226983715
+    second: Mussuh 5_887
+  - first:
+      213: -7473770527680185856
+    second: Mussuh 5_888
+  - first:
+      213: 3533055287034548792
+    second: Mussuh 5_889
+  - first:
+      213: 5021410972719027419
+    second: Mussuh 5_890
+  - first:
+      213: -4778283318284744599
+    second: Mussuh 5_891
+  - first:
+      213: -1711715891838931037
+    second: Mussuh 5_892
+  - first:
+      213: -252473983508558251
+    second: Mussuh 5_893
+  - first:
+      213: 8679490527546499415
+    second: Mussuh 5_894
+  - first:
+      213: 4719763359590116690
+    second: Mussuh 5_895
+  - first:
+      213: 1005640589521820872
+    second: Mussuh 5_896
+  - first:
+      213: -7900354909556716871
+    second: Mussuh 5_897
+  - first:
+      213: 5771533930704081166
+    second: Mussuh 5_898
+  - first:
+      213: 8717687507149801568
+    second: Mussuh 5_899
+  - first:
+      213: 8975363285969913930
+    second: Mussuh 5_900
+  - first:
+      213: 2497843804979958015
+    second: Mussuh 5_901
+  - first:
+      213: 2955854938069929636
+    second: Mussuh 5_902
+  - first:
+      213: -8781129149084795040
+    second: Mussuh 5_903
+  - first:
+      213: 3494098375598319516
+    second: Mussuh 5_904
+  - first:
+      213: 1662988510158781249
+    second: Mussuh 5_905
+  - first:
+      213: 320051196385576877
+    second: Mussuh 5_906
+  - first:
+      213: 4727902929180780472
+    second: Mussuh 5_907
+  - first:
+      213: 5097310993340791822
+    second: Mussuh 5_908
+  - first:
+      213: 5708541169575089306
+    second: Mussuh 5_909
+  - first:
+      213: -5608420926150703714
+    second: Mussuh 5_910
+  - first:
+      213: 4611479076541804780
+    second: Mussuh 5_911
+  - first:
+      213: -5076586779483917577
+    second: Mussuh 5_912
+  - first:
+      213: -5395145546283624925
+    second: Mussuh 5_913
+  - first:
+      213: -6628380102794927302
+    second: Mussuh 5_914
+  - first:
+      213: -3834231228601306865
+    second: Mussuh 5_915
+  - first:
+      213: -8314774720239903115
+    second: Mussuh 5_916
+  - first:
+      213: 50547085113130462
+    second: Mussuh 5_917
+  - first:
+      213: 4261748129955084894
+    second: Mussuh 5_918
+  - first:
+      213: -9099703700415148938
+    second: Mussuh 5_919
+  - first:
+      213: 6361266192575117717
+    second: Mussuh 5_920
+  - first:
+      213: -3904239275223514660
+    second: Mussuh 5_921
+  - first:
+      213: 4570666375062475132
+    second: Mussuh 5_922
+  - first:
+      213: -6680181929784103649
+    second: Mussuh 5_923
+  - first:
+      213: 3292875572810948996
+    second: Mussuh 5_924
+  - first:
+      213: 1444716803905897322
+    second: Mussuh 5_925
+  - first:
+      213: -1180405867763452055
+    second: Mussuh 5_926
+  - first:
+      213: 2998898987131451570
+    second: Mussuh 5_927
+  - first:
+      213: 720259938001573284
+    second: Mussuh 5_928
+  - first:
+      213: -4354991280940577546
+    second: Mussuh 5_929
+  - first:
+      213: 5630178739863635473
+    second: Mussuh 5_930
+  - first:
+      213: -1365312583057195986
+    second: Mussuh 5_931
+  - first:
+      213: -5801301402951038132
+    second: Mussuh 5_932
+  - first:
+      213: -9106011360084107418
+    second: Mussuh 5_933
+  - first:
+      213: -8388587947415285368
+    second: Mussuh 5_934
+  - first:
+      213: -8999086918379958877
+    second: Mussuh 5_935
+  - first:
+      213: 3783415942769361023
+    second: Mussuh 5_936
+  - first:
+      213: -8922462259369165730
+    second: Mussuh 5_937
+  - first:
+      213: -1977965171653627979
+    second: Mussuh 5_938
+  - first:
+      213: -2424599690133128648
+    second: Mussuh 5_939
+  - first:
+      213: 892615399166491229
+    second: Mussuh 5_940
+  - first:
+      213: 2296935582235156636
+    second: Mussuh 5_941
+  - first:
+      213: -5066792606690706807
+    second: Mussuh 5_942
+  - first:
+      213: -4671492979898820704
+    second: Mussuh 5_943
+  - first:
+      213: -3441719257334872346
+    second: Mussuh 5_944
+  - first:
+      213: 5045425271716511103
+    second: Mussuh 5_945
+  - first:
+      213: 6355076026143680607
+    second: Mussuh 5_946
+  - first:
+      213: 6960433955930663222
+    second: Mussuh 5_947
+  - first:
+      213: 6977179973581717563
+    second: Mussuh 5_948
+  - first:
+      213: 3413309140138603081
+    second: Mussuh 5_949
+  - first:
+      213: 7186151910178427169
+    second: Mussuh 5_950
+  - first:
+      213: 4085056781102437785
+    second: Mussuh 5_951
+  - first:
+      213: -5341305312532763077
+    second: Mussuh 5_952
+  - first:
+      213: -8137789719273767605
+    second: Mussuh 5_953
+  - first:
+      213: 4834577485788918840
+    second: Mussuh 5_954
+  - first:
+      213: -7287408927399162715
+    second: Mussuh 5_955
+  - first:
+      213: 4225527376137840726
+    second: Mussuh 5_956
+  - first:
+      213: 9030508701506873236
+    second: Mussuh 5_957
+  - first:
+      213: -8798464741823715142
+    second: Mussuh 5_958
+  - first:
+      213: 3567355622609180295
+    second: Mussuh 5_959
+  - first:
+      213: 2515036489574078065
+    second: Mussuh 5_960
+  - first:
+      213: -3421011439409396923
+    second: Mussuh 5_961
+  - first:
+      213: -5419592862736173338
+    second: Mussuh 5_962
+  - first:
+      213: 2101085497304290463
+    second: Mussuh 5_963
+  - first:
+      213: 1996648495452046792
+    second: Mussuh 5_964
+  - first:
+      213: 7998219247702772859
+    second: Mussuh 5_965
+  - first:
+      213: -2756262716340633186
+    second: Mussuh 5_966
+  - first:
+      213: 484821066135046768
+    second: Mussuh 5_967
+  - first:
+      213: 4313762298065793119
+    second: Mussuh 5_968
+  - first:
+      213: 323945993668231290
+    second: Mussuh 5_969
+  - first:
+      213: 2870241227416401858
+    second: Mussuh 5_970
+  - first:
+      213: 5741116789691265433
+    second: Mussuh 5_971
+  - first:
+      213: -1282762930067975758
+    second: Mussuh 5_972
+  - first:
+      213: 638097908906110782
+    second: Mussuh 5_973
+  - first:
+      213: 4271244088935136058
+    second: Mussuh 5_974
+  - first:
+      213: -3390787677858994036
+    second: Mussuh 5_975
+  - first:
+      213: 4566923177284173816
+    second: Mussuh 5_976
+  - first:
+      213: -5683224176096041070
+    second: Mussuh 5_977
+  - first:
+      213: -6879062117793391565
+    second: Mussuh 5_978
+  - first:
+      213: 4301352328150003211
+    second: Mussuh 5_979
+  - first:
+      213: 302603157731274203
+    second: Mussuh 5_980
+  - first:
+      213: 2862533286372953756
+    second: Mussuh 5_981
+  - first:
+      213: -2786682894045287537
+    second: Mussuh 5_982
+  - first:
+      213: -7759147608967959971
+    second: Mussuh 5_983
+  - first:
+      213: -4165605178777989568
+    second: Mussuh 5_984
+  - first:
+      213: 3162097339093166070
+    second: Mussuh 5_985
+  - first:
+      213: 821326843584211724
+    second: Mussuh 5_986
+  - first:
+      213: 7977822973734020053
+    second: Mussuh 5_987
+  - first:
+      213: -6499901806479542324
+    second: Mussuh 5_988
+  - first:
+      213: -6647808683064023284
+    second: Mussuh 5_989
+  - first:
+      213: 4114030921639333221
+    second: Mussuh 5_990
+  - first:
+      213: 1927260626347314403
+    second: Mussuh 5_991
+  - first:
+      213: -9043786211462589420
+    second: Mussuh 5_992
+  - first:
+      213: -533599993006193974
+    second: Mussuh 5_993
+  - first:
+      213: -6869354463195305821
+    second: Mussuh 5_994
+  - first:
+      213: -2941160398384966771
+    second: Mussuh 5_995
+  - first:
+      213: -4781381529129957862
+    second: Mussuh 5_996
+  - first:
+      213: 7826317584249144446
+    second: Mussuh 5_997
+  - first:
+      213: 4725408807210105545
+    second: Mussuh 5_998
+  - first:
+      213: 4406377952070417559
+    second: Mussuh 5_999
+  - first:
+      213: 5279142563976499297
+    second: Mussuh 5_1000
+  - first:
+      213: 2187242264610557391
+    second: Mussuh 5_1001
+  - first:
+      213: 4940202189489613881
+    second: Mussuh 5_1002
+  - first:
+      213: -4339080147120343654
+    second: Mussuh 5_1003
+  - first:
+      213: 5119472498757140837
+    second: Mussuh 5_1004
+  - first:
+      213: -1145785942546309054
+    second: Mussuh 5_1005
+  - first:
+      213: 1820554032814812962
+    second: Mussuh 5_1006
+  - first:
+      213: -2225059398898202615
+    second: Mussuh 5_1007
+  - first:
+      213: 3146648575281384278
+    second: Mussuh 5_1008
+  - first:
+      213: 7294270912488986932
+    second: Mussuh 5_1009
+  - first:
+      213: -702387699573356414
+    second: Mussuh 5_1010
+  - first:
+      213: -428537871053420044
+    second: Mussuh 5_1011
+  - first:
+      213: 4784168226805852126
+    second: Mussuh 5_1012
+  - first:
+      213: -1319753290143602765
+    second: Mussuh 5_1013
+  - first:
+      213: 5644969358932532160
+    second: Mussuh 5_1014
+  - first:
+      213: -6137309348619770079
+    second: Mussuh 5_1015
+  - first:
+      213: 3391449456230904558
+    second: Mussuh 5_1016
+  - first:
+      213: 5110100720781024932
+    second: Mussuh 5_1017
+  - first:
+      213: 601655954648145856
+    second: Mussuh 5_1018
+  - first:
+      213: -2459981452654836804
+    second: Mussuh 5_1019
+  - first:
+      213: -1198179310722072416
+    second: Mussuh 5_1020
+  - first:
+      213: 2842749754081621293
+    second: Mussuh 5_1021
+  - first:
+      213: -6674739132979553080
+    second: Mussuh 5_1022
+  - first:
+      213: -3419734040674345594
+    second: Mussuh 5_1023
+  - first:
+      213: -4803999720710796675
+    second: Mussuh 5_1024
+  - first:
+      213: -8280838509828171615
+    second: Mussuh 5_1025
+  - first:
+      213: -6988496296027335319
+    second: Mussuh 5_1026
+  - first:
+      213: -3587554878064351952
+    second: Mussuh 5_1027
+  - first:
+      213: 6658435821322200512
+    second: Mussuh 5_1028
+  - first:
+      213: 2182631563025925731
+    second: Mussuh 5_1029
+  - first:
+      213: -3398070181078836495
+    second: Mussuh 5_1030
+  - first:
+      213: -4554677661429326928
+    second: Mussuh 5_1031
+  - first:
+      213: 4795220391268794875
+    second: Mussuh 5_1032
+  - first:
+      213: 8552883780339303393
+    second: Mussuh 5_1033
+  - first:
+      213: 411215006372472610
+    second: Mussuh 5_1034
+  - first:
+      213: 4958802845993021350
+    second: Mussuh 5_1035
+  - first:
+      213: 7375193446908992521
+    second: Mussuh 5_1036
+  - first:
+      213: -8036431513773489358
+    second: Mussuh 5_1037
+  - first:
+      213: 5971610065384118470
+    second: Mussuh 5_1038
+  - first:
+      213: 1428617055004672804
+    second: Mussuh 5_1039
+  - first:
+      213: -5548921915658098398
+    second: Mussuh 5_1040
+  - first:
+      213: 2427488239385972160
+    second: Mussuh 5_1041
+  - first:
+      213: -8654479762235371765
+    second: Mussuh 5_1042
+  - first:
+      213: 7236478637592346153
+    second: Mussuh 5_1043
+  - first:
+      213: -3889654251699748316
+    second: Mussuh 5_1044
+  - first:
+      213: 6107432824003220052
+    second: Mussuh 5_1045
+  - first:
+      213: 948587424868975967
+    second: Mussuh 5_1046
+  - first:
+      213: -1407992564979902616
+    second: Mussuh 5_1047
+  - first:
+      213: -5923131177859176482
+    second: Mussuh 5_1048
+  - first:
+      213: -5946504784736618769
+    second: Mussuh 5_1049
+  - first:
+      213: 5897655159192790737
+    second: Mussuh 5_1050
+  - first:
+      213: -8321105562630605116
+    second: Mussuh 5_1051
+  - first:
+      213: -8573888486023703118
+    second: Mussuh 5_1052
+  - first:
+      213: -7571257825752388140
+    second: Mussuh 5_1053
+  - first:
+      213: -9083067426735521491
+    second: Mussuh 5_1054
+  - first:
+      213: -78178126776265858
+    second: Mussuh 5_1055
+  - first:
+      213: 9167042492952625307
+    second: Mussuh 5_1056
+  - first:
+      213: 3409659588645207304
+    second: Mussuh 5_1057
+  - first:
+      213: 1169519152349219285
+    second: Mussuh 5_1058
+  - first:
+      213: 1576476918271124391
+    second: Mussuh 5_1059
+  - first:
+      213: 8166331302313363199
+    second: Mussuh 5_1060
+  - first:
+      213: -6894117876886873372
+    second: Mussuh 5_1061
+  - first:
+      213: -1612217266225458556
+    second: Mussuh 5_1062
+  - first:
+      213: -684643233143718924
+    second: Mussuh 5_1063
+  - first:
+      213: 5848373580501307142
+    second: Mussuh 5_1064
+  - first:
+      213: -8715261312194617097
+    second: Mussuh 5_1065
+  - first:
+      213: 2796466951920864110
+    second: Mussuh 5_1066
+  - first:
+      213: -645218905570040379
+    second: Mussuh 5_1067
+  - first:
+      213: -1628362798645706629
+    second: Mussuh 5_1068
+  - first:
+      213: -3728824716323978916
+    second: Mussuh 5_1069
+  - first:
+      213: -389825729861030711
+    second: Mussuh 5_1070
+  - first:
+      213: -5707079914561531487
+    second: Mussuh 5_1071
+  - first:
+      213: -3032961943439351854
+    second: Mussuh 5_1072
+  - first:
+      213: 8451311054226554085
+    second: Mussuh 5_1073
+  - first:
+      213: 4951026295070946222
+    second: Mussuh 5_1074
+  - first:
+      213: -4296027965825543575
+    second: Mussuh 5_1075
+  - first:
+      213: 3479520291316620486
+    second: Mussuh 5_1076
+  - first:
+      213: 4305071557856473276
+    second: Mussuh 5_1077
+  - first:
+      213: -6123078270233547974
+    second: Mussuh 5_1078
+  - first:
+      213: -9144459750666864407
+    second: Mussuh 5_1079
+  - first:
+      213: -7949020809794702586
+    second: Mussuh 5_1080
+  - first:
+      213: -7396108910462488743
+    second: Mussuh 5_1081
+  - first:
+      213: -3201889248324976115
+    second: Mussuh 5_1082
+  - first:
+      213: -8893230565452624610
+    second: Mussuh 5_1083
+  - first:
+      213: -5630311560966522815
+    second: Mussuh 5_1084
+  - first:
+      213: 6323615295932784190
+    second: Mussuh 5_1085
+  - first:
+      213: 5936809401274166533
+    second: Mussuh 5_1086
+  - first:
+      213: -278465399360293634
+    second: Mussuh 5_1087
+  - first:
+      213: -1425431054291081990
+    second: Mussuh 5_1088
+  - first:
+      213: -1728329535511647575
+    second: Mussuh 5_1089
+  - first:
+      213: 7039789007705830570
+    second: Mussuh 5_1090
+  - first:
+      213: -8720749334183739275
+    second: Mussuh 5_1091
+  - first:
+      213: 3772043178247147940
+    second: Mussuh 5_1092
+  - first:
+      213: 8418010319920036623
+    second: Mussuh 5_1093
+  - first:
+      213: 6121441341341767612
+    second: Mussuh 5_1094
+  - first:
+      213: -6089194131787906563
+    second: Mussuh 5_1095
+  - first:
+      213: 102142257406694977
+    second: Mussuh 5_1096
+  - first:
+      213: 6563552380027298304
+    second: Mussuh 5_1097
+  - first:
+      213: -4577953993659894233
+    second: Mussuh 5_1098
+  - first:
+      213: 6901634197758850163
+    second: Mussuh 5_1099
+  - first:
+      213: -1414187210467472941
+    second: Mussuh 5_1100
+  - first:
+      213: -5106952652381394501
+    second: Mussuh 5_1101
+  - first:
+      213: -5271611168799934844
+    second: Mussuh 5_1102
+  - first:
+      213: 6215733127289900830
+    second: Mussuh 5_1103
+  - first:
+      213: 7175108879888819976
+    second: Mussuh 5_1104
+  - first:
+      213: 8801247560228062413
+    second: Mussuh 5_1105
+  - first:
+      213: -6402244848431647483
+    second: Mussuh 5_1106
+  - first:
+      213: -5974615800693782083
+    second: Mussuh 5_1107
+  - first:
+      213: -7038473874764253448
+    second: Mussuh 5_1108
+  - first:
+      213: 8017365167453989438
+    second: Mussuh 5_1109
+  - first:
+      213: 1042968111014528915
+    second: Mussuh 5_1110
+  - first:
+      213: 462443970295634838
+    second: Mussuh 5_1111
+  - first:
+      213: 6959889043574171238
+    second: Mussuh 5_1112
+  - first:
+      213: 3443336422451236945
+    second: Mussuh 5_1113
+  - first:
+      213: -1197140405119682749
+    second: Mussuh 5_1114
+  - first:
+      213: 3914544334120718089
+    second: Mussuh 5_1115
+  - first:
+      213: 6498767847775868080
+    second: Mussuh 5_1116
+  - first:
+      213: -4000557174228347805
+    second: Mussuh 5_1117
+  - first:
+      213: -4728875504416539305
+    second: Mussuh 5_1118
+  - first:
+      213: 2741276422465320442
+    second: Mussuh 5_1119
+  - first:
+      213: -7556887896211488585
+    second: Mussuh 5_1120
+  - first:
+      213: -1696105485775143122
+    second: Mussuh 5_1121
+  - first:
+      213: -3323469319773629745
+    second: Mussuh 5_1122
+  - first:
+      213: 3972823513908943566
+    second: Mussuh 5_1123
+  - first:
+      213: -6180976330505769622
+    second: Mussuh 5_1124
+  - first:
+      213: -4771897100581191722
+    second: Mussuh 5_1125
+  - first:
+      213: 7465517283748130533
+    second: Mussuh 5_1126
+  - first:
+      213: 3928258094558458563
+    second: Mussuh 5_1127
+  - first:
+      213: -4562397314531597419
+    second: Mussuh 5_1128
+  - first:
+      213: 3247013991062901459
+    second: Mussuh 5_1129
+  - first:
+      213: -7482077135267115903
+    second: Mussuh 5_1130
+  - first:
+      213: 9073710400283466421
+    second: Mussuh 5_1131
+  - first:
+      213: -2914446109007843705
+    second: Mussuh 5_1132
+  - first:
+      213: 2537327854864848073
+    second: Mussuh 5_1133
+  - first:
+      213: 3828321305782784505
+    second: Mussuh 5_1134
+  - first:
+      213: -1138097980841187751
+    second: Mussuh 5_1135
+  - first:
+      213: 9112354418498172528
+    second: Mussuh 5_1136
+  - first:
+      213: -5190576586580818269
+    second: Mussuh 5_1137
+  - first:
+      213: -5804805630025510720
+    second: Mussuh 5_1138
+  - first:
+      213: 1059351920306773573
+    second: Mussuh 5_1139
+  - first:
+      213: -8703589407234679547
+    second: Mussuh 5_1140
+  - first:
+      213: 6159103856699473464
+    second: Mussuh 5_1141
+  - first:
+      213: 6067521363092349032
+    second: Mussuh 5_1142
+  - first:
+      213: 3181927751204151042
+    second: Mussuh 5_1143
+  - first:
+      213: 1533482297604454889
+    second: Mussuh 5_1144
+  - first:
+      213: -6827400418867387913
+    second: Mussuh 5_1145
+  - first:
+      213: 6887328988865588446
+    second: Mussuh 5_1146
+  - first:
+      213: -3900614249461660003
+    second: Mussuh 5_1147
+  - first:
+      213: -7557017615431471160
+    second: Mussuh 5_1148
+  - first:
+      213: -1406415745748524683
+    second: Mussuh 5_1149
+  - first:
+      213: -5418985906977967683
+    second: Mussuh 5_1150
+  - first:
+      213: -1062018160253184977
+    second: Mussuh 5_1151
+  - first:
+      213: 4259034243269205003
+    second: Mussuh 5_1152
+  - first:
+      213: -1102535511270634905
+    second: Mussuh 5_1153
+  - first:
+      213: -5754704694999708177
+    second: Mussuh 5_1154
+  - first:
+      213: -3474570118765267744
+    second: Mussuh 5_1155
+  - first:
+      213: -46306311335891251
+    second: Mussuh 5_1156
+  - first:
+      213: -7234199372849616533
+    second: Mussuh 5_1157
+  - first:
+      213: -4759692068916708577
+    second: Mussuh 5_1158
+  - first:
+      213: 7032071599703249743
+    second: Mussuh 5_1159
+  - first:
+      213: -6182178343448391584
+    second: Mussuh 5_1160
+  - first:
+      213: -8248051443045074157
+    second: Mussuh 5_1161
+  - first:
+      213: -5214443319732322414
+    second: Mussuh 5_1162
+  - first:
+      213: 8452961933675940017
+    second: Mussuh 5_1163
+  - first:
+      213: 3041527955894394009
+    second: Mussuh 5_1164
+  - first:
+      213: 1490722923639882549
+    second: Mussuh 5_1165
+  - first:
+      213: 6740951636512228863
+    second: Mussuh 5_1166
+  - first:
+      213: 1531784909391848087
+    second: Mussuh 5_1167
+  - first:
+      213: -4556778373053509019
+    second: Mussuh 5_1168
+  - first:
+      213: 1482651793713252218
+    second: Mussuh 5_1169
+  - first:
+      213: -8155687662028883105
+    second: Mussuh 5_1170
+  - first:
+      213: 5725868739390867651
+    second: Mussuh 5_1171
+  - first:
+      213: -5145164890775864094
+    second: Mussuh 5_1172
+  - first:
+      213: -1823247349063537884
+    second: Mussuh 5_1173
+  - first:
+      213: 6207005369418470126
+    second: Mussuh 5_1174
+  - first:
+      213: 8645443505192369217
+    second: Mussuh 5_1175
+  - first:
+      213: 9058303348922795881
+    second: Mussuh 5_1176
+  - first:
+      213: -4195764441246748699
+    second: Mussuh 5_1177
+  - first:
+      213: -6059978779070227729
+    second: Mussuh 5_1178
+  - first:
+      213: 621089633807845619
+    second: Mussuh 5_1179
+  - first:
+      213: -1000641085956895634
+    second: Mussuh 5_1180
+  - first:
+      213: 981803734355952925
+    second: Mussuh 5_1181
+  - first:
+      213: -7063880241041084596
+    second: Mussuh 5_1182
+  - first:
+      213: 1202875374068700773
+    second: Mussuh 5_1183
+  - first:
+      213: 4801588387405446486
+    second: Mussuh 5_1184
+  - first:
+      213: 5508194323821433265
+    second: Mussuh 5_1185
+  - first:
+      213: 2577324028081582947
+    second: Mussuh 5_1186
+  - first:
+      213: 5764280749313630831
+    second: Mussuh 5_1187
+  - first:
+      213: -5971299435347070255
+    second: Mussuh 5_1188
+  - first:
+      213: 8747285481414491344
+    second: Mussuh 5_1189
+  - first:
+      213: 9131601182141891898
+    second: Mussuh 5_1190
+  - first:
+      213: 8003429138741478055
+    second: Mussuh 5_1191
+  - first:
+      213: 4656825712100882934
+    second: Mussuh 5_1192
+  - first:
+      213: 3137243955797064548
+    second: Mussuh 5_1193
+  - first:
+      213: 5079171491975862126
+    second: Mussuh 5_1194
+  - first:
+      213: 8620042660505774917
+    second: Mussuh 5_1195
+  - first:
+      213: 6852902115938013651
+    second: Mussuh 5_1196
+  - first:
+      213: -6688091338851718186
+    second: Mussuh 5_1197
+  - first:
+      213: 2904721920896003456
+    second: Mussuh 5_1198
+  - first:
+      213: -8314240605595614065
+    second: Mussuh 5_1199
+  - first:
+      213: -7443137244541643901
+    second: Mussuh 5_1200
+  - first:
+      213: -404730627869282924
+    second: Mussuh 5_1201
+  - first:
+      213: 5923363538048313223
+    second: Mussuh 5_1202
+  - first:
+      213: -9208833578630811629
+    second: Mussuh 5_1203
+  - first:
+      213: 1284745913641265979
+    second: Mussuh 5_1204
+  - first:
+      213: 4851724620383584127
+    second: Mussuh 5_1205
+  - first:
+      213: 3010624194276106548
+    second: Mussuh 5_1206
+  - first:
+      213: -4958821975257880602
+    second: Mussuh 5_1207
+  - first:
+      213: 733150626126096716
+    second: Mussuh 5_1208
+  - first:
+      213: -4323610699875305900
+    second: Mussuh 5_1209
+  - first:
+      213: -7342691144180932699
+    second: Mussuh 5_1210
+  - first:
+      213: -6754869151158820529
+    second: Mussuh 5_1211
+  - first:
+      213: 8099220836741735089
+    second: Mussuh 5_1212
+  - first:
+      213: -5744803052434484295
+    second: Mussuh 5_1213
+  - first:
+      213: 3385937705664366147
+    second: Mussuh 5_1214
+  - first:
+      213: -3927999007402674530
+    second: Mussuh 5_1215
+  - first:
+      213: 4900411625497007520
+    second: Mussuh 5_1216
+  - first:
+      213: 91998392352272289
+    second: Mussuh 5_1217
+  - first:
+      213: 92282088907168346
+    second: Mussuh 5_1218
+  - first:
+      213: 7132385411048213444
+    second: Mussuh 5_1219
+  - first:
+      213: 2019433894483831814
+    second: Mussuh 5_1220
+  - first:
+      213: -2955941599809062398
+    second: Mussuh 5_1221
+  - first:
+      213: -882936400294284790
+    second: Mussuh 5_1222
+  - first:
+      213: 7601850842712292061
+    second: Mussuh 5_1223
+  - first:
+      213: -6013929474673465718
+    second: Mussuh 5_1224
+  - first:
+      213: -2665578332936865961
+    second: Mussuh 5_1225
+  - first:
+      213: -6978280181933733258
+    second: Mussuh 5_1226
+  - first:
+      213: -1853538502708680429
+    second: Mussuh 5_1227
+  - first:
+      213: 911844096686453093
+    second: Mussuh 5_1228
+  - first:
+      213: 6912662762841118814
+    second: Mussuh 5_1229
+  - first:
+      213: 8306365710753118758
+    second: Mussuh 5_1230
+  - first:
+      213: 2190669622833904306
+    second: Mussuh 5_1231
+  - first:
+      213: -5478180121194649630
+    second: Mussuh 5_1232
+  - first:
+      213: -5755288629665158244
+    second: Mussuh 5_1233
+  - first:
+      213: -456792762231805130
+    second: Mussuh 5_1234
+  - first:
+      213: 1990382190373050815
+    second: Mussuh 5_1235
+  - first:
+      213: 8144879539224613491
+    second: Mussuh 5_1236
+  - first:
+      213: 423986389193815983
+    second: Mussuh 5_1237
+  - first:
+      213: -3844223887780728377
+    second: Mussuh 5_1238
+  - first:
+      213: -4284930810386219504
+    second: Mussuh 5_1239
+  - first:
+      213: -6541847054397128825
+    second: Mussuh 5_1240
+  - first:
+      213: 6667490027404609349
+    second: Mussuh 5_1241
+  - first:
+      213: 6875718093782374950
+    second: Mussuh 5_1242
+  - first:
+      213: 5949835490319168475
+    second: Mussuh 5_1243
+  - first:
+      213: -2970334887915781848
+    second: Mussuh 5_1244
+  - first:
+      213: -983138957883172719
+    second: Mussuh 5_1245
+  - first:
+      213: 8947819165158210921
+    second: Mussuh 5_1246
+  - first:
+      213: -2592943583287177627
+    second: Mussuh 5_1247
+  - first:
+      213: 3976769301649758326
+    second: Mussuh 5_1248
+  - first:
+      213: -6760796488743325274
+    second: Mussuh 5_1249
+  - first:
+      213: 1765575257298629844
+    second: Mussuh 5_1250
+  - first:
+      213: -2364441895862862681
+    second: Mussuh 5_1251
+  - first:
+      213: 9214732078455731571
+    second: Mussuh 5_1252
+  - first:
+      213: 5835553505023446041
+    second: Mussuh 5_1253
+  - first:
+      213: 5006478962593056596
+    second: Mussuh 5_1254
+  - first:
+      213: -4501975523238672823
+    second: Mussuh 5_1255
+  - first:
+      213: -8582822322949982746
+    second: Mussuh 5_1256
+  - first:
+      213: -3773771794990386
+    second: Mussuh 5_1257
+  - first:
+      213: 2620211848694192727
+    second: Mussuh 5_1258
+  - first:
+      213: -908197784988557997
+    second: Mussuh 5_1259
+  - first:
+      213: -4189104739187430464
+    second: Mussuh 5_1260
+  - first:
+      213: 575810211066752392
+    second: Mussuh 5_1261
+  - first:
+      213: -1363163314088740812
+    second: Mussuh 5_1262
+  - first:
+      213: 4095105071343028745
+    second: Mussuh 5_1263
+  - first:
+      213: 4413295444823961076
+    second: Mussuh 5_1264
+  - first:
+      213: -7790940539638817027
+    second: Mussuh 5_1265
+  - first:
+      213: 5477802554880438922
+    second: Mussuh 5_1266
+  - first:
+      213: -3514873005835907945
+    second: Mussuh 5_1267
+  - first:
+      213: 8889308447892773839
+    second: Mussuh 5_1268
+  - first:
+      213: 6032828043823424239
+    second: Mussuh 5_1269
+  - first:
+      213: 8243845775593262580
+    second: Mussuh 5_1270
+  - first:
+      213: -4336158825287340649
+    second: Mussuh 5_1271
+  - first:
+      213: 7288128090471188071
+    second: Mussuh 5_1272
+  - first:
+      213: 3200485674730517446
+    second: Mussuh 5_1273
+  - first:
+      213: -8538459980796100308
+    second: Mussuh 5_1274
+  - first:
+      213: 7085783150798584533
+    second: Mussuh 5_1275
+  - first:
+      213: 4360834622374410056
+    second: Mussuh 5_1276
+  - first:
+      213: 4933061541104459393
+    second: Mussuh 5_1277
+  - first:
+      213: -6187339511997338067
+    second: Mussuh 5_1278
+  - first:
+      213: -2376246920024618082
+    second: Mussuh 5_1279
+  - first:
+      213: 4601623530738698669
+    second: Mussuh 5_1280
+  - first:
+      213: -5997815487141079784
+    second: Mussuh 5_1281
+  - first:
+      213: -6556524932316253482
+    second: Mussuh 5_1282
+  - first:
+      213: -3650932412339738337
+    second: Mussuh 5_1283
+  - first:
+      213: -9147553558175084933
+    second: Mussuh 5_1284
+  - first:
+      213: 7322824794192745160
+    second: Mussuh 5_1285
+  - first:
+      213: 5736921205493518709
+    second: Mussuh 5_1286
+  - first:
+      213: -1037559921415844911
+    second: Mussuh 5_1287
+  - first:
+      213: -4302834707397497890
+    second: Mussuh 5_1288
+  - first:
+      213: 2957835152941253999
+    second: Mussuh 5_1289
+  - first:
+      213: -5269499608614837265
+    second: Mussuh 5_1290
+  - first:
+      213: -7137406796762988898
+    second: Mussuh 5_1291
+  - first:
+      213: 7555005987685617291
+    second: Mussuh 5_1292
+  - first:
+      213: -8908712801903345270
+    second: Mussuh 5_1293
+  - first:
+      213: -7858843174494381862
+    second: Mussuh 5_1294
+  - first:
+      213: -3333117263418798793
+    second: Mussuh 5_1295
+  - first:
+      213: 7699960737421039370
+    second: Mussuh 5_1296
+  - first:
+      213: 5537523627241742281
+    second: Mussuh 5_1297
+  - first:
+      213: 3927685035927618899
+    second: Mussuh 5_1298
+  - first:
+      213: -6470106652674904326
+    second: Mussuh 5_1299
+  - first:
+      213: -4793755106753462534
+    second: Mussuh 5_1300
+  - first:
+      213: -9093927860658407202
+    second: Mussuh 5_1301
+  - first:
+      213: -4744037637672889470
+    second: Mussuh 5_1302
+  - first:
+      213: 739697677141783170
+    second: Mussuh 5_1303
+  - first:
+      213: -2817164782953531584
+    second: Mussuh 5_1304
+  - first:
+      213: -8760327861054750885
+    second: Mussuh 5_1305
+  - first:
+      213: 2065762824061320734
+    second: Mussuh 5_1306
+  - first:
+      213: 1759045279616862254
+    second: Mussuh 5_1307
+  - first:
+      213: 6395845097773270191
+    second: Mussuh 5_1308
+  - first:
+      213: -5810108805280936749
+    second: Mussuh 5_1309
+  - first:
+      213: 7577767715310606878
+    second: Mussuh 5_1310
+  - first:
+      213: 9022845952578111445
+    second: Mussuh 5_1311
+  - first:
+      213: 7972650032287358258
+    second: Mussuh 5_1312
+  - first:
+      213: 4065322682469121786
+    second: Mussuh 5_1313
+  - first:
+      213: 3990264214678881422
+    second: Mussuh 5_1314
+  - first:
+      213: 240479407318564592
+    second: Mussuh 5_1315
+  - first:
+      213: -7985831760051674660
+    second: Mussuh 5_1316
+  - first:
+      213: -4122003972179076433
+    second: Mussuh 5_1317
+  - first:
+      213: -7688722721380883212
+    second: Mussuh 5_1318
+  - first:
+      213: 6734612733507429350
+    second: Mussuh 5_1319
+  - first:
+      213: 191619519284357403
+    second: Mussuh 5_1320
+  - first:
+      213: 2950422565899301274
+    second: Mussuh 5_1321
+  - first:
+      213: -6923224264064351860
+    second: Mussuh 5_1322
+  - first:
+      213: -350965240038677676
+    second: Mussuh 5_1323
+  - first:
+      213: 4466267728616326882
+    second: Mussuh 5_1324
+  - first:
+      213: -4516687046699170088
+    second: Mussuh 5_1325
+  - first:
+      213: 1294078637722794351
+    second: Mussuh 5_1326
+  - first:
+      213: -6067513797432702138
+    second: Mussuh 5_1327
+  - first:
+      213: -2875679379627412467
+    second: Mussuh 5_1328
+  - first:
+      213: 4116750269094941651
+    second: Mussuh 5_1329
+  - first:
+      213: -8577154898394839782
+    second: Mussuh 5_1330
+  - first:
+      213: 6859609951011023531
+    second: Mussuh 5_1331
+  - first:
+      213: -496097141845713219
+    second: Mussuh 5_1332
+  - first:
+      213: -8825535913209610741
+    second: Mussuh 5_1333
+  - first:
+      213: -1974008986296258965
+    second: Mussuh 5_1334
+  - first:
+      213: -1115277640470988241
+    second: Mussuh 5_1335
+  - first:
+      213: 2401297532678110008
+    second: Mussuh 5_1336
+  - first:
+      213: 2590811961728027393
+    second: Mussuh 5_1337
+  - first:
+      213: 8326894807366286141
+    second: Mussuh 5_1338
+  - first:
+      213: 638284006547656412
+    second: Mussuh 5_1339
+  - first:
+      213: 6856622822767476421
+    second: Mussuh 5_1340
+  - first:
+      213: 921852752612220204
+    second: Mussuh 5_1341
+  - first:
+      213: 6763493861769154716
+    second: Mussuh 5_1342
+  - first:
+      213: -5292011672522616860
+    second: Mussuh 5_1343
+  - first:
+      213: -5278931761655241553
+    second: Mussuh 5_1344
+  - first:
+      213: -7961547180561462165
+    second: Mussuh 5_1345
+  - first:
+      213: 848915281151468261
+    second: Mussuh 5_1346
+  - first:
+      213: -781471243629315148
+    second: Mussuh 5_1347
+  - first:
+      213: 8191193103318768976
+    second: Mussuh 5_1348
+  - first:
+      213: 9095619013383236976
+    second: Mussuh 5_1349
+  - first:
+      213: -7516412688420505616
+    second: Mussuh 5_1350
+  - first:
+      213: 4879895805982441766
+    second: Mussuh 5_1351
+  - first:
+      213: 8958185126796922517
+    second: Mussuh 5_1352
+  - first:
+      213: 459181131423714454
+    second: Mussuh 5_1353
+  - first:
+      213: -1755644938695265295
+    second: Mussuh 5_1354
+  - first:
+      213: 6670108256158084609
+    second: Mussuh 5_1355
+  - first:
+      213: 6549464117824310600
+    second: Mussuh 5_1356
+  - first:
+      213: 8180652893262355249
+    second: Mussuh 5_1357
+  - first:
+      213: 7658454403748232097
+    second: Mussuh 5_1358
+  - first:
+      213: -1594668658519936508
+    second: Mussuh 5_1359
+  - first:
+      213: 2007402556979349196
+    second: Mussuh 5_1360
+  - first:
+      213: 5730921801921342232
+    second: Mussuh 5_1361
+  - first:
+      213: -8081802242472636121
+    second: Mussuh 5_1362
+  - first:
+      213: -8837143169308794721
+    second: Mussuh 5_1363
+  - first:
+      213: 8848388892944630593
+    second: Mussuh 5_1364
+  - first:
+      213: 258528158349061032
+    second: Mussuh 5_1365
+  - first:
+      213: 2565369852604179980
+    second: Mussuh 5_1366
+  - first:
+      213: 588751617264739348
+    second: Mussuh 5_1367
+  - first:
+      213: 1898308671309576819
+    second: Mussuh 5_1368
+  - first:
+      213: 4542883386958836369
+    second: Mussuh 5_1369
+  - first:
+      213: 1549121395740358386
+    second: Mussuh 5_1370
+  - first:
+      213: -6260844955202432032
+    second: Mussuh 5_1371
+  - first:
+      213: 5032016753225445808
+    second: Mussuh 5_1372
+  - first:
+      213: 5578679106449636153
+    second: Mussuh 5_1373
+  - first:
+      213: -5007729756693561690
+    second: Mussuh 5_1374
+  - first:
+      213: 3472358801312399934
+    second: Mussuh 5_1375
+  - first:
+      213: 995358100759612443
+    second: Mussuh 5_1376
+  - first:
+      213: -1128587061093511873
+    second: Mussuh 5_1377
+  - first:
+      213: -6690043402600761358
+    second: Mussuh 5_1378
+  - first:
+      213: 8262029611117978501
+    second: Mussuh 5_1379
+  - first:
+      213: 3616943482862988810
+    second: Mussuh 5_1380
+  - first:
+      213: 1881857359066228689
+    second: Mussuh 5_1381
+  - first:
+      213: -504864309383141732
+    second: Mussuh 5_1382
+  - first:
+      213: -5783304293939235037
+    second: Mussuh 5_1383
+  - first:
+      213: 858540306461442963
+    second: Mussuh 5_1384
+  - first:
+      213: 8438597014647387429
+    second: Mussuh 5_1385
+  - first:
+      213: -6474539519714286158
+    second: Mussuh 5_1386
+  - first:
+      213: -6251927421036517165
+    second: Mussuh 5_1387
+  - first:
+      213: -3285372440683354260
+    second: Mussuh 5_1388
+  - first:
+      213: 4046410101489403058
+    second: Mussuh 5_1389
+  - first:
+      213: -5153896586585405221
+    second: Mussuh 5_1390
+  - first:
+      213: 8911146704074141656
+    second: Mussuh 5_1391
+  - first:
+      213: -2581962673900518839
+    second: Mussuh 5_1392
+  - first:
+      213: 8901076935345987193
+    second: Mussuh 5_1393
+  - first:
+      213: -699612096956533278
+    second: Mussuh 5_1394
+  - first:
+      213: 1419937425301527305
+    second: Mussuh 5_1395
+  - first:
+      213: -6022590238861031845
+    second: Mussuh 5_1396
+  - first:
+      213: 4400782740509557058
+    second: Mussuh 5_1397
+  - first:
+      213: -5616640953759698415
+    second: Mussuh 5_1398
+  - first:
+      213: 1447782653753875800
+    second: Mussuh 5_1399
+  - first:
+      213: -9190722881111165575
+    second: Mussuh 5_1400
+  - first:
+      213: -8339024240616707693
+    second: Mussuh 5_1401
+  - first:
+      213: -5513775348100059631
+    second: Mussuh 5_1402
+  - first:
+      213: 4388258795252024247
+    second: Mussuh 5_1403
+  - first:
+      213: -6590357906421749192
+    second: Mussuh 5_1404
+  - first:
+      213: -6187504547151229150
+    second: Mussuh 5_1405
+  - first:
+      213: -2602925253937411951
+    second: Mussuh 5_1406
+  - first:
+      213: -478657197985766636
+    second: Mussuh 5_1407
+  - first:
+      213: 1359906986904365601
+    second: Mussuh 5_1408
+  - first:
+      213: -5199050510676156102
+    second: Mussuh 5_1409
+  - first:
+      213: 5121049263578919058
+    second: Mussuh 5_1410
+  - first:
+      213: -1954819328583574941
+    second: Mussuh 5_1411
+  - first:
+      213: -6812978896772422967
+    second: Mussuh 5_1412
+  - first:
+      213: -6861308735590516256
+    second: Mussuh 5_1413
+  - first:
+      213: 7177065075807816952
+    second: Mussuh 5_1414
+  - first:
+      213: -7534881042935945787
+    second: Mussuh 5_1415
+  - first:
+      213: -672889266705336460
+    second: Mussuh 5_1416
+  - first:
+      213: 4017916448727409050
+    second: Mussuh 5_1417
+  - first:
+      213: -3185260042321402391
+    second: Mussuh 5_1418
+  - first:
+      213: -1942638306970356582
+    second: Mussuh 5_1419
+  - first:
+      213: -8895262033651289597
+    second: Mussuh 5_1420
+  - first:
+      213: 2365774157026553717
+    second: Mussuh 5_1421
+  - first:
+      213: -934468526120875392
+    second: Mussuh 5_1422
+  - first:
+      213: 2353754610267192026
+    second: Mussuh 5_1423
+  - first:
+      213: -5645485617018655987
+    second: Mussuh 5_1424
+  - first:
+      213: 3110354838472421182
+    second: Mussuh 5_1425
+  - first:
+      213: 6604371259714805884
+    second: Mussuh 5_1426
+  - first:
+      213: -8029577463652848174
+    second: Mussuh 5_1427
+  - first:
+      213: 5858599059562795881
+    second: Mussuh 5_1428
+  - first:
+      213: 693825019505443128
+    second: Mussuh 5_1429
+  - first:
+      213: -641160144463657503
+    second: Mussuh 5_1430
+  - first:
+      213: -8415901054248424857
+    second: Mussuh 5_1431
+  - first:
+      213: -3979400707256357686
+    second: Mussuh 5_1432
+  - first:
+      213: 4077330525789502837
+    second: Mussuh 5_1433
+  - first:
+      213: -7751793016993568523
+    second: Mussuh 5_1434
+  - first:
+      213: 5288294831636893950
+    second: Mussuh 5_1435
+  - first:
+      213: -5679524816445064609
+    second: Mussuh 5_1436
+  - first:
+      213: 7596990001717853266
+    second: Mussuh 5_1437
+  - first:
+      213: 3991290401721241800
+    second: Mussuh 5_1438
+  - first:
+      213: -6952180449343114474
+    second: Mussuh 5_1439
+  - first:
+      213: -4717761947951482480
+    second: Mussuh 5_1440
+  - first:
+      213: -8155182963646402742
+    second: Mussuh 5_1441
+  - first:
+      213: -8444083496450999384
+    second: Mussuh 5_1442
+  - first:
+      213: 5558455883266430683
+    second: Mussuh 5_1443
+  - first:
+      213: -3247247830017770279
+    second: Mussuh 5_1444
+  - first:
+      213: 6587812598714125876
+    second: Mussuh 5_1445
+  - first:
+      213: 4226785986168782013
+    second: Mussuh 5_1446
+  - first:
+      213: 3697367788811147111
+    second: Mussuh 5_1447
+  - first:
+      213: -3803437253571386643
+    second: Mussuh 5_1448
+  - first:
+      213: 1240123554285477743
+    second: Mussuh 5_1449
+  - first:
+      213: -7051477296248255685
+    second: Mussuh 5_1450
+  - first:
+      213: 8577730419863485440
+    second: Mussuh 5_1451
+  - first:
+      213: 1656489538365778098
+    second: Mussuh 5_1452
+  - first:
+      213: 542758063400451519
+    second: Mussuh 5_1453
+  - first:
+      213: 5546182714905439891
+    second: Mussuh 5_1454
+  - first:
+      213: 5439158331889871644
+    second: Mussuh 5_1455
+  - first:
+      213: 6700865601885828316
+    second: Mussuh 5_1456
+  - first:
+      213: 1417855987237955948
+    second: Mussuh 5_1457
+  - first:
+      213: 2751628153493583672
+    second: Mussuh 5_1458
+  - first:
+      213: -4705688348430266874
+    second: Mussuh 5_1459
+  - first:
+      213: -2415751084196675169
+    second: Mussuh 5_1460
+  - first:
+      213: 1896989408870579760
+    second: Mussuh 5_1461
+  - first:
+      213: 2903887327851286558
+    second: Mussuh 5_1462
+  - first:
+      213: -707474192961487734
+    second: Mussuh 5_1463
+  - first:
+      213: -52465591864529022
+    second: Mussuh 5_1464
+  - first:
+      213: -9222694129163690348
+    second: Mussuh 5_1465
+  - first:
+      213: 4382735328469348502
+    second: Mussuh 5_1466
+  - first:
+      213: 6279227267116569508
+    second: Mussuh 5_1467
+  - first:
+      213: -536711930753752945
+    second: Mussuh 5_1468
+  - first:
+      213: 4537448923792778760
+    second: Mussuh 5_1469
+  - first:
+      213: 136696550669304322
+    second: Mussuh 5_1470
+  - first:
+      213: 8975997066136375555
+    second: Mussuh 5_1471
+  - first:
+      213: -6994771333639676876
+    second: Mussuh 5_1472
+  - first:
+      213: -2229544950807551293
+    second: Mussuh 5_1473
+  - first:
+      213: -3426918390499970704
+    second: Mussuh 5_1474
+  - first:
+      213: -82482887565104502
+    second: Mussuh 5_1475
+  - first:
+      213: -2473847288001016924
+    second: Mussuh 5_1476
+  - first:
+      213: 7239658102973512711
+    second: Mussuh 5_1477
+  - first:
+      213: -1936812733521029599
+    second: Mussuh 5_1478
+  - first:
+      213: 6315220989320641462
+    second: Mussuh 5_1479
+  - first:
+      213: 964803191162849166
+    second: Mussuh 5_1480
+  - first:
+      213: -2773673126284627069
+    second: Mussuh 5_1481
+  - first:
+      213: -6500198980197205852
+    second: Mussuh 5_1482
+  - first:
+      213: -6148070131004337894
+    second: Mussuh 5_1483
+  - first:
+      213: 1769349881080241316
+    second: Mussuh 5_1484
+  - first:
+      213: 375867764118315695
+    second: Mussuh 5_1485
+  - first:
+      213: 941058573350682831
+    second: Mussuh 5_1486
+  - first:
+      213: -7924020539139006638
+    second: Mussuh 5_1487
+  - first:
+      213: 8948458014076820465
+    second: Mussuh 5_1488
+  - first:
+      213: -7653872341053008799
+    second: Mussuh 5_1489
+  - first:
+      213: 3730894476833148159
+    second: Mussuh 5_1490
+  - first:
+      213: -9184583193955978480
+    second: Mussuh 5_1491
+  - first:
+      213: 9108310067641407498
+    second: Mussuh 5_1492
+  - first:
+      213: 8032247521619862090
+    second: Mussuh 5_1493
+  - first:
+      213: 5719390970711016412
+    second: Mussuh 5_1494
+  - first:
+      213: 8311049880035823543
+    second: Mussuh 5_1495
+  - first:
+      213: -2045873382716146745
+    second: Mussuh 5_1496
+  - first:
+      213: 1715734593072568444
+    second: Mussuh 5_1497
+  - first:
+      213: -8585770083101190187
+    second: Mussuh 5_1498
+  - first:
+      213: -517374255016735318
+    second: Mussuh 5_1499
+  - first:
+      213: -7895576420039154883
+    second: Mussuh 5_1500
+  - first:
+      213: 8927870691084974853
+    second: Mussuh 5_1501
+  - first:
+      213: -6658184243408518740
+    second: Mussuh 5_1502
+  - first:
+      213: -7967356865636502121
+    second: Mussuh 5_1503
+  - first:
+      213: -5919648280509403475
+    second: Mussuh 5_1504
+  - first:
+      213: 8467260609134299102
+    second: Mussuh 5_1505
+  - first:
+      213: -4349723733348330190
+    second: Mussuh 5_1506
+  - first:
+      213: -4493371547289164063
+    second: Mussuh 5_1507
+  - first:
+      213: -1221942647419950386
+    second: Mussuh 5_1508
+  - first:
+      213: 2764116455527011695
+    second: Mussuh 5_1509
+  - first:
+      213: 151834239058539557
+    second: Mussuh 5_1510
+  - first:
+      213: 7054819901639338187
+    second: Mussuh 5_1511
+  - first:
+      213: 7536759864306600315
+    second: Mussuh 5_1512
+  - first:
+      213: -7670465031725367515
+    second: Mussuh 5_1513
+  - first:
+      213: 2158394813206877430
+    second: Mussuh 5_1514
+  - first:
+      213: -8203517469628361385
+    second: Mussuh 5_1515
+  - first:
+      213: 1550782452974493908
+    second: Mussuh 5_1516
+  - first:
+      213: 9077341168815167450
+    second: Mussuh 5_1517
+  - first:
+      213: 63417650686250165
+    second: Mussuh 5_1518
+  - first:
+      213: 1221959770288825330
+    second: Mussuh 5_1519
+  - first:
+      213: 5903081123053052985
+    second: Mussuh 5_1520
+  - first:
+      213: 1267717135400225744
+    second: Mussuh 5_1521
+  - first:
+      213: -6912586482984249542
+    second: Mussuh 5_1522
+  - first:
+      213: 8137612077903388540
+    second: Mussuh 5_1523
+  - first:
+      213: -3690917693154737629
+    second: Mussuh 5_1524
+  - first:
+      213: 5642797255093287171
+    second: Mussuh 5_1525
+  - first:
+      213: 872830856391530221
+    second: Mussuh 5_1526
+  - first:
+      213: 572819537704087884
+    second: Mussuh 5_1527
+  - first:
+      213: 2012756818641220625
+    second: Mussuh 5_1528
+  - first:
+      213: 1798265407244172584
+    second: Mussuh 5_1529
+  - first:
+      213: -3997843574229734846
+    second: Mussuh 5_1530
+  - first:
+      213: 2654137690876255260
+    second: Mussuh 5_1531
+  - first:
+      213: -4888041534935195997
+    second: Mussuh 5_1532
+  - first:
+      213: -5279777005364734535
+    second: Mussuh 5_1533
+  - first:
+      213: 3476151948611784535
+    second: Mussuh 5_1534
+  - first:
+      213: -677612949827251667
+    second: Mussuh 5_1535
+  - first:
+      213: 1590601844065209404
+    second: Mussuh 5_1536
+  - first:
+      213: -4567953835729315440
+    second: Mussuh 5_1537
+  - first:
+      213: 4987534446355251209
+    second: Mussuh 5_1538
+  - first:
+      213: -1877665309812085293
+    second: Mussuh 5_1539
+  - first:
+      213: -8256778705427338382
+    second: Mussuh 5_1540
+  - first:
+      213: 1254420789199269971
+    second: Mussuh 5_1541
+  - first:
+      213: 6579627365437597089
+    second: Mussuh 5_1542
+  - first:
+      213: 2854152177568862005
+    second: Mussuh 5_1543
+  - first:
+      213: 5858991684662973406
+    second: Mussuh 5_1544
+  - first:
+      213: -7807466810657019905
+    second: Mussuh 5_1545
+  - first:
+      213: 7682078256606381182
+    second: Mussuh 5_1546
+  - first:
+      213: 8577275078829379553
+    second: Mussuh 5_1547
+  - first:
+      213: 1319521065288686354
+    second: Mussuh 5_1548
+  - first:
+      213: 8621748484492813142
+    second: Mussuh 5_1549
+  - first:
+      213: -6864733455695385430
+    second: Mussuh 5_1550
+  - first:
+      213: -6961624139540557729
+    second: Mussuh 5_1551
+  - first:
+      213: -1905997515221423258
+    second: Mussuh 5_1552
+  - first:
+      213: 2335540482700374946
+    second: Mussuh 5_1553
+  - first:
+      213: 479449674442764938
+    second: Mussuh 5_1554
+  - first:
+      213: -3470587637737709835
+    second: Mussuh 5_1555
+  - first:
+      213: -1575661191808799315
+    second: Mussuh 5_1556
+  - first:
+      213: 4914960145464624783
+    second: Mussuh 5_1557
+  - first:
+      213: -8300351275292541928
+    second: Mussuh 5_1558
+  - first:
+      213: -5475807324851759803
+    second: Mussuh 5_1559
+  - first:
+      213: -1391509460420392393
+    second: Mussuh 5_1560
+  - first:
+      213: 5964870607503392135
+    second: Mussuh 5_1561
+  - first:
+      213: 1585261055599176733
+    second: Mussuh 5_1562
+  - first:
+      213: 6874288093548432635
+    second: Mussuh 5_1563
+  - first:
+      213: -2680638429138322520
+    second: Mussuh 5_1564
+  - first:
+      213: 8868656207898075582
+    second: Mussuh 5_1565
+  - first:
+      213: 148914464455682
+    second: Mussuh 5_1566
+  - first:
+      213: -5389294839881845583
+    second: Mussuh 5_1567
+  - first:
+      213: -2657250174439162206
+    second: Mussuh 5_1568
+  - first:
+      213: 8115698882560371823
+    second: Mussuh 5_1569
+  - first:
+      213: 3003297641219594859
+    second: Mussuh 5_1570
+  - first:
+      213: 8758272834797102071
+    second: Mussuh 5_1571
+  - first:
+      213: -192221506761726706
+    second: Mussuh 5_1572
+  - first:
+      213: -7482355635668468777
+    second: Mussuh 5_1573
+  - first:
+      213: 1026802717767683839
+    second: Mussuh 5_1574
+  - first:
+      213: 8620146951868632133
+    second: Mussuh 5_1575
+  - first:
+      213: -5318718024640318326
+    second: Mussuh 5_1576
+  - first:
+      213: -300736008796232062
+    second: Mussuh 5_1577
+  - first:
+      213: -5146647022468390098
+    second: Mussuh 5_1578
+  - first:
+      213: -4587753213250835197
+    second: Mussuh 5_1579
+  - first:
+      213: -134190431549837711
+    second: Mussuh 5_1580
+  - first:
+      213: 4224666157635615356
+    second: Mussuh 5_1581
+  - first:
+      213: 5390468661743052930
+    second: Mussuh 5_1582
+  - first:
+      213: -3820745041824255544
+    second: Mussuh 5_1583
+  - first:
+      213: 831476109572461132
+    second: Mussuh 5_1584
+  - first:
+      213: 9025806041363593409
+    second: Mussuh 5_1585
+  - first:
+      213: -6091614405921404184
+    second: Mussuh 5_1586
+  - first:
+      213: -7796020520033201618
+    second: Mussuh 5_1587
+  - first:
+      213: -5638109112997664578
+    second: Mussuh 5_1588
+  - first:
+      213: -4738652512883365943
+    second: Mussuh 5_1589
+  - first:
+      213: 1976931619730181242
+    second: Mussuh 5_1590
+  - first:
+      213: -4497409936664287343
+    second: Mussuh 5_1591
+  - first:
+      213: 9036926315445046693
+    second: Mussuh 5_1592
+  - first:
+      213: -4471459267378063348
+    second: Mussuh 5_1593
+  - first:
+      213: -2961517110012606346
+    second: Mussuh 5_1594
+  - first:
+      213: 4557536427149077205
+    second: Mussuh 5_1595
+  - first:
+      213: -2534678236107180261
+    second: Mussuh 5_1596
+  - first:
+      213: -6268183948052893017
+    second: Mussuh 5_1597
+  - first:
+      213: 5559095977546590223
+    second: Mussuh 5_1598
+  - first:
+      213: 4445999794603469153
+    second: Mussuh 5_1599
+  - first:
+      213: -8345734048754206335
+    second: Mussuh 5_1600
+  - first:
+      213: 45566998142801964
+    second: Mussuh 5_1601
+  - first:
+      213: 8649591983853873904
+    second: Mussuh 5_1602
+  - first:
+      213: -848223594655447778
+    second: Mussuh 5_1603
+  - first:
+      213: 2084118453917318383
+    second: Mussuh 5_1604
+  - first:
+      213: 5609187475567440543
+    second: Mussuh 5_1605
+  - first:
+      213: 1828516646604553841
+    second: Mussuh 5_1606
+  - first:
+      213: -3465818594836511892
+    second: Mussuh 5_1607
+  - first:
+      213: -3955544960940182313
+    second: Mussuh 5_1608
+  - first:
+      213: 5492061389510069586
+    second: Mussuh 5_1609
+  - first:
+      213: 7772511295120630651
+    second: Mussuh 5_1610
+  - first:
+      213: 5706278746679297961
+    second: Mussuh 5_1611
+  - first:
+      213: -8632847146705692747
+    second: Mussuh 5_1612
+  - first:
+      213: -5243695269576511858
+    second: Mussuh 5_1613
+  - first:
+      213: -1876497910870930046
+    second: Mussuh 5_1614
+  - first:
+      213: -7746452610492736349
+    second: Mussuh 5_1615
+  - first:
+      213: 3566019230121882355
+    second: Mussuh 5_1616
+  - first:
+      213: 1493220509526888927
+    second: Mussuh 5_1617
+  - first:
+      213: -6337374361897363
+    second: Mussuh 5_1618
+  - first:
+      213: -8911469394441685185
+    second: Mussuh 5_1619
+  - first:
+      213: 8723632515785445062
+    second: Mussuh 5_1620
+  - first:
+      213: 7494585615735999933
+    second: Mussuh 5_1621
+  - first:
+      213: 1729538366764863762
+    second: Mussuh 5_1622
+  - first:
+      213: 5802686278441624781
+    second: Mussuh 5_1623
+  - first:
+      213: -8447156494154937711
+    second: Mussuh 5_1624
+  - first:
+      213: -6624787554846461828
+    second: Mussuh 5_1625
+  - first:
+      213: 3475232908118582676
+    second: Mussuh 5_1626
+  - first:
+      213: 4278192122914896831
+    second: Mussuh 5_1627
+  - first:
+      213: 168498602713344004
+    second: Mussuh 5_1628
+  - first:
+      213: 8651073043130754870
+    second: Mussuh 5_1629
+  - first:
+      213: -2211876287328833100
+    second: Mussuh 5_1630
+  - first:
+      213: -6596156934616645203
+    second: Mussuh 5_1631
+  - first:
+      213: -3886621782208614310
+    second: Mussuh 5_1632
+  - first:
+      213: 704303478124808821
+    second: Mussuh 5_1633
+  - first:
+      213: -4581013596853254505
+    second: Mussuh 5_1634
+  - first:
+      213: -9090725647048767808
+    second: Mussuh 5_1635
+  - first:
+      213: -3250425870823497654
+    second: Mussuh 5_1636
+  - first:
+      213: 4078895895819270986
+    second: Mussuh 5_1637
+  - first:
+      213: 8073406710613251821
+    second: Mussuh 5_1638
+  - first:
+      213: -6519209344536111158
+    second: Mussuh 5_1639
+  - first:
+      213: -5748808297361151812
+    second: Mussuh 5_1640
+  - first:
+      213: 6707045535623238787
+    second: Mussuh 5_1641
+  - first:
+      213: 8568324925933066403
+    second: Mussuh 5_1642
+  - first:
+      213: -4403294229998156549
+    second: Mussuh 5_1643
+  - first:
+      213: 5941479796314329583
+    second: Mussuh 5_1644
+  - first:
+      213: 7514299832986741967
+    second: Mussuh 5_1645
+  - first:
+      213: 669069228942373522
+    second: Mussuh 5_1646
+  - first:
+      213: 9115337193943299736
+    second: Mussuh 5_1647
+  - first:
+      213: -210762243363988926
+    second: Mussuh 5_1648
+  - first:
+      213: -861273411915268373
+    second: Mussuh 5_1649
+  - first:
+      213: 3477547516562887725
+    second: Mussuh 5_1650
+  - first:
+      213: -4219886300521194433
+    second: Mussuh 5_1651
+  - first:
+      213: -2124109890426727792
+    second: Mussuh 5_1652
+  - first:
+      213: 8737019336744959489
+    second: Mussuh 5_1653
+  - first:
+      213: -8191495241641747025
+    second: Mussuh 5_1654
+  - first:
+      213: 3538781359702408493
+    second: Mussuh 5_1655
+  - first:
+      213: 1726724540864044038
+    second: Mussuh 5_1656
+  - first:
+      213: -5294537818292822609
+    second: Mussuh 5_1657
+  - first:
+      213: -9163469849545428460
+    second: Mussuh 5_1658
+  - first:
+      213: -6190077388156655788
+    second: Mussuh 5_1659
+  - first:
+      213: -7711794150163100419
+    second: Mussuh 5_1660
+  - first:
+      213: 63569972138419469
+    second: Mussuh 5_1661
+  - first:
+      213: -1535228877188529057
+    second: Mussuh 5_1662
+  - first:
+      213: -2437151635953938757
+    second: Mussuh 5_1663
+  - first:
+      213: -3698773236823217205
+    second: Mussuh 5_1664
+  - first:
+      213: -4566562243216369437
+    second: Mussuh 5_1665
+  - first:
+      213: -2850791677068754423
+    second: Mussuh 5_1666
+  - first:
+      213: -5224440985373381246
+    second: Mussuh 5_1667
+  - first:
+      213: 2920975520302349171
+    second: Mussuh 5_1668
+  - first:
+      213: 9015216258595873876
+    second: Mussuh 5_1669
+  - first:
+      213: 5424512965647297757
+    second: Mussuh 5_1670
+  - first:
+      213: 4479092911859400279
+    second: Mussuh 5_1671
+  - first:
+      213: 1838554682146597750
+    second: Mussuh 5_1672
+  - first:
+      213: -5888485637629286408
+    second: Mussuh 5_1673
+  - first:
+      213: 5345386315752444716
+    second: Mussuh 5_1674
+  - first:
+      213: -6795674656266875360
+    second: Mussuh 5_1675
+  - first:
+      213: -6419295617901352650
+    second: Mussuh 5_1676
+  - first:
+      213: 7446665867524436905
+    second: Mussuh 5_1677
+  - first:
+      213: 8697920968512887098
+    second: Mussuh 5_1678
+  - first:
+      213: 5350637425613663465
+    second: Mussuh 5_1679
+  - first:
+      213: 4022629840398565153
+    second: Mussuh 5_1680
+  - first:
+      213: -5505122310550096014
+    second: Mussuh 5_1681
+  - first:
+      213: -8531657480004146995
+    second: Mussuh 5_1682
+  - first:
+      213: 5486089085245222983
+    second: Mussuh 5_1683
+  - first:
+      213: -1202849611119289994
+    second: Mussuh 5_1684
+  - first:
+      213: 5115829417223366486
+    second: Mussuh 5_1685
+  - first:
+      213: 689135072901801107
+    second: Mussuh 5_1686
+  - first:
+      213: 497933577529172743
+    second: Mussuh 5_1687
+  - first:
+      213: 7190345645914395690
+    second: Mussuh 5_1688
+  - first:
+      213: -6744242947820385462
+    second: Mussuh 5_1689
+  - first:
+      213: 2548625064574993775
+    second: Mussuh 5_1690
+  - first:
+      213: -1111779063790985301
+    second: Mussuh 5_1691
+  - first:
+      213: -25073596533304068
+    second: Mussuh 5_1692
+  - first:
+      213: -403256528618399780
+    second: Mussuh 5_1693
+  - first:
+      213: -5114015029875490055
+    second: Mussuh 5_1694
+  - first:
+      213: 6739448804491695749
+    second: Mussuh 5_1695
+  - first:
+      213: -6465338250224103527
+    second: Mussuh 5_1696
+  - first:
+      213: -546120246220426755
+    second: Mussuh 5_1697
+  - first:
+      213: 2010278629604141993
+    second: Mussuh 5_1698
+  - first:
+      213: 908933101045544021
+    second: Mussuh 5_1699
+  - first:
+      213: 1874263837699742456
+    second: Mussuh 5_1700
+  - first:
+      213: -4334895346471741220
+    second: Mussuh 5_1701
+  - first:
+      213: 1130835791550439384
+    second: Mussuh 5_1702
+  - first:
+      213: 8570334184207425170
+    second: Mussuh 5_1703
+  - first:
+      213: -1778369579253281364
+    second: Mussuh 5_1704
+  - first:
+      213: -8175555889917196287
+    second: Mussuh 5_1705
+  - first:
+      213: 368166824209613485
+    second: Mussuh 5_1706
+  - first:
+      213: 2259065684235856823
+    second: Mussuh 5_1707
+  - first:
+      213: -8440663665052273904
+    second: Mussuh 5_1708
+  - first:
+      213: -8583297643557510913
+    second: Mussuh 5_1709
+  - first:
+      213: -9149102534440561790
+    second: Mussuh 5_1710
+  - first:
+      213: 5532681967133421012
+    second: Mussuh 5_1711
+  - first:
+      213: -3104654016964717205
+    second: Mussuh 5_1712
+  - first:
+      213: 8208337859843522852
+    second: Mussuh 5_1713
+  - first:
+      213: 8611012390313840732
+    second: Mussuh 5_1714
+  - first:
+      213: 7214336875101462969
+    second: Mussuh 5_1715
+  - first:
+      213: -7805021259391072742
+    second: Mussuh 5_1716
+  - first:
+      213: -1914170693277754819
+    second: Mussuh 5_1717
+  - first:
+      213: 2508339406705013092
+    second: Mussuh 5_1718
+  - first:
+      213: -1504683740720026909
+    second: Mussuh 5_1719
+  - first:
+      213: 1253581276599177545
+    second: Mussuh 5_1720
+  - first:
+      213: 4738775426925694854
+    second: Mussuh 5_1721
+  - first:
+      213: -8512943093638878362
+    second: Mussuh 5_1722
+  - first:
+      213: 487173002121127987
+    second: Mussuh 5_1723
+  - first:
+      213: -8725333005437277461
+    second: Mussuh 5_1724
+  - first:
+      213: -5740865585489195722
+    second: Mussuh 5_1725
+  - first:
+      213: 1898967807728218191
+    second: Mussuh 5_1726
+  - first:
+      213: 9219768111862009133
+    second: Mussuh 5_1727
+  - first:
+      213: -2142244132992452494
+    second: Mussuh 5_1728
+  - first:
+      213: -330919797881840264
+    second: Mussuh 5_1729
+  - first:
+      213: -4396365979101710160
+    second: Mussuh 5_1730
+  - first:
+      213: -5112727592547835572
+    second: Mussuh 5_1731
+  - first:
+      213: -8158013002559555230
+    second: Mussuh 5_1732
+  - first:
+      213: -70898827187998884
+    second: Mussuh 5_1733
+  - first:
+      213: -6494799055697161993
+    second: Mussuh 5_1734
+  - first:
+      213: -5176039092190004469
+    second: Mussuh 5_1735
+  - first:
+      213: 5794377017018184547
+    second: Mussuh 5_1736
+  - first:
+      213: 507971472737390817
+    second: Mussuh 5_1737
+  - first:
+      213: -2153179781502794687
+    second: Mussuh 5_1738
+  - first:
+      213: 8654244731067764686
+    second: Mussuh 5_1739
+  - first:
+      213: 8170601736509326168
+    second: Mussuh 5_1740
+  - first:
+      213: -3913300305832571384
+    second: Mussuh 5_1741
+  - first:
+      213: -6675729847404878411
+    second: Mussuh 5_1742
+  - first:
+      213: -81220698693598317
+    second: Mussuh 5_1743
+  - first:
+      213: -2341122742635514613
+    second: Mussuh 5_1744
+  - first:
+      213: 3889085960215789876
+    second: Mussuh 5_1745
+  - first:
+      213: -8614753921632217615
+    second: Mussuh 5_1746
+  - first:
+      213: -74427783536826811
+    second: Mussuh 5_1747
+  - first:
+      213: -4612641492095310508
+    second: Mussuh 5_1748
+  - first:
+      213: -5754586571965336222
+    second: Mussuh 5_1749
+  - first:
+      213: -4677089912113630112
+    second: Mussuh 5_1750
+  - first:
+      213: -4636862078634199377
+    second: Mussuh 5_1751
+  - first:
+      213: -2300859636383737432
+    second: Mussuh 5_1752
+  - first:
+      213: 478198500646725023
+    second: Mussuh 5_1753
+  - first:
+      213: 6923294793915389672
+    second: Mussuh 5_1754
+  - first:
+      213: 9109469728073306089
+    second: Mussuh 5_1755
+  - first:
+      213: -9184384302637109885
+    second: Mussuh 5_1756
+  - first:
+      213: -3544795808707429588
+    second: Mussuh 5_1757
+  - first:
+      213: 2568050697282186029
+    second: Mussuh 5_1758
+  - first:
+      213: -8483022933297186034
+    second: Mussuh 5_1759
+  - first:
+      213: 3102580184386571338
+    second: Mussuh 5_1760
+  - first:
+      213: 9065303411046324683
+    second: Mussuh 5_1761
+  - first:
+      213: -8905759159876415149
+    second: Mussuh 5_1762
+  - first:
+      213: 2694834925058343957
+    second: Mussuh 5_1763
+  - first:
+      213: 6942344291119752301
+    second: Mussuh 5_1764
+  - first:
+      213: 135185449627253562
+    second: Mussuh 5_1765
+  - first:
+      213: 5234120832817502668
+    second: Mussuh 5_1766
+  - first:
+      213: 6554289675256628938
+    second: Mussuh 5_1767
+  - first:
+      213: -1430309052400122433
+    second: Mussuh 5_1768
+  - first:
+      213: -6434770464603124171
+    second: Mussuh 5_1769
+  - first:
+      213: 135258262278181167
+    second: Mussuh 5_1770
+  - first:
+      213: 7441790387036746812
+    second: Mussuh 5_1771
+  - first:
+      213: -4292770045511635484
+    second: Mussuh 5_1772
+  - first:
+      213: -3831515532137789622
+    second: Mussuh 5_1773
+  - first:
+      213: 7291103460571343430
+    second: Mussuh 5_1774
+  - first:
+      213: -3922064098205508821
+    second: Mussuh 5_1775
+  - first:
+      213: 6110319836293175000
+    second: Mussuh 5_1776
+  - first:
+      213: -923239693669571411
+    second: Mussuh 5_1777
+  - first:
+      213: -1315280327363487153
+    second: Mussuh 5_1778
+  - first:
+      213: -1652211652285877657
+    second: Mussuh 5_1779
+  - first:
+      213: -1479149288048130015
+    second: Mussuh 5_1780
+  - first:
+      213: 8543367900821161711
+    second: Mussuh 5_1781
+  - first:
+      213: 3471850620627868254
+    second: Mussuh 5_1782
+  - first:
+      213: 1451811799551601472
+    second: Mussuh 5_1783
+  - first:
+      213: 7976165215319351027
+    second: Mussuh 5_1784
+  - first:
+      213: 2320143425281924144
+    second: Mussuh 5_1785
+  - first:
+      213: 7071649218208075356
+    second: Mussuh 5_1786
+  - first:
+      213: -215527436575925955
+    second: Mussuh 5_1787
+  - first:
+      213: 1181147300270853428
+    second: Mussuh 5_1788
+  - first:
+      213: -2508643989779052674
+    second: Mussuh 5_1789
+  - first:
+      213: 1350971149190888912
+    second: Mussuh 5_1790
+  - first:
+      213: -7111529172255432778
+    second: Mussuh 5_1791
+  - first:
+      213: -8931241023739753232
+    second: Mussuh 5_1792
+  - first:
+      213: 7089967516872224133
+    second: Mussuh 5_1793
+  - first:
+      213: -6772278774467934431
+    second: Mussuh 5_1794
+  - first:
+      213: -7578557391238132237
+    second: Mussuh 5_1795
+  - first:
+      213: -1368991039027525215
+    second: Mussuh 5_1796
+  - first:
+      213: -4736916365292408225
+    second: Mussuh 5_1797
+  - first:
+      213: -7179386338593514243
+    second: Mussuh 5_1798
+  - first:
+      213: 628422954600599482
+    second: Mussuh 5_1799
+  - first:
+      213: -5193327587212969617
+    second: Mussuh 5_1800
+  - first:
+      213: 1118396876751382416
+    second: Mussuh 5_1801
+  - first:
+      213: 827633849984047396
+    second: Mussuh 5_1802
+  - first:
+      213: -181888158940512181
+    second: Mussuh 5_1803
+  - first:
+      213: -1567204300426684618
+    second: Mussuh 5_1804
+  - first:
+      213: -7184585113022239806
+    second: Mussuh 5_1805
+  - first:
+      213: 1495328405697126016
+    second: Mussuh 5_1806
+  - first:
+      213: 4543094564609452262
+    second: Mussuh 5_1807
+  - first:
+      213: 4332432658645630422
+    second: Mussuh 5_1808
+  - first:
+      213: -4108207582063177459
+    second: Mussuh 5_1809
+  - first:
+      213: 4046980669368822285
+    second: Mussuh 5_1810
+  - first:
+      213: 3272946333690610768
+    second: Mussuh 5_1811
+  - first:
+      213: -2218408540768072095
+    second: Mussuh 5_1812
+  - first:
+      213: 6524840913426093060
+    second: Mussuh 5_1813
+  - first:
+      213: -661620286548957969
+    second: Mussuh 5_1814
+  - first:
+      213: -1827400431176228649
+    second: Mussuh 5_1815
+  - first:
+      213: -5079381768075068927
+    second: Mussuh 5_1816
+  - first:
+      213: 1075265333723270239
+    second: Mussuh 5_1817
+  - first:
+      213: -685191619889493907
+    second: Mussuh 5_1818
+  - first:
+      213: 775171111100163905
+    second: Mussuh 5_1819
+  - first:
+      213: -8978767063005621621
+    second: Mussuh 5_1820
+  - first:
+      213: 3063216798235847874
+    second: Mussuh 5_1821
+  - first:
+      213: 4559137016345267914
+    second: Mussuh 5_1822
+  - first:
+      213: 28862630120800591
+    second: Mussuh 5_1823
+  - first:
+      213: 3162877600670246726
+    second: Mussuh 5_1824
+  - first:
+      213: -439652548361239580
+    second: Mussuh 5_1825
+  - first:
+      213: 7037155460813203174
+    second: Mussuh 5_1826
+  - first:
+      213: -2663651927799477293
+    second: Mussuh 5_1827
+  - first:
+      213: 3184060282199549600
+    second: Mussuh 5_1828
+  - first:
+      213: 4940280217366525985
+    second: Mussuh 5_1829
+  - first:
+      213: 4911583460410044917
+    second: Mussuh 5_1830
+  - first:
+      213: -5624232827220207326
+    second: Mussuh 5_1831
+  - first:
+      213: -5584649081783334088
+    second: Mussuh 5_1832
+  - first:
+      213: -2284777800051967396
+    second: Mussuh 5_1833
+  - first:
+      213: -3287117335715443343
+    second: Mussuh 5_1834
+  - first:
+      213: 7515794370354891293
+    second: Mussuh 5_1835
+  - first:
+      213: 8471667995135353431
+    second: Mussuh 5_1836
+  - first:
+      213: 8183388986803618903
+    second: Mussuh 5_1837
+  - first:
+      213: -1780093606510994573
+    second: Mussuh 5_1838
+  - first:
+      213: 2351909417987180492
+    second: Mussuh 5_1839
+  - first:
+      213: -183570335698114619
+    second: Mussuh 5_1840
+  - first:
+      213: -5786559710057336833
+    second: Mussuh 5_1841
+  - first:
+      213: 1010116418634911090
+    second: Mussuh 5_1842
+  - first:
+      213: -2371937982095359239
+    second: Mussuh 5_1843
+  - first:
+      213: 586287455094460874
+    second: Mussuh 5_1844
+  - first:
+      213: -7902717680727871958
+    second: Mussuh 5_1845
+  - first:
+      213: 1894288329692820158
+    second: Mussuh 5_1846
+  - first:
+      213: -4029036401429265472
+    second: Mussuh 5_1847
+  - first:
+      213: -7202442806235004898
+    second: Mussuh 5_1848
+  - first:
+      213: 4136600543998360689
+    second: Mussuh 5_1849
+  - first:
+      213: -165901739080343979
+    second: Mussuh 5_1850
+  - first:
+      213: -7975753122435646802
+    second: Mussuh 5_1851
+  - first:
+      213: -3247485492296920745
+    second: Mussuh 5_1852
+  - first:
+      213: 1769705153822571227
+    second: Mussuh 5_1853
+  - first:
+      213: 4216980980997623780
+    second: Mussuh 5_1854
+  - first:
+      213: -3052931787606901037
+    second: Mussuh 5_1855
+  - first:
+      213: 1286370346630729130
+    second: Mussuh 5_1856
+  - first:
+      213: -2700967068241170014
+    second: Mussuh 5_1857
+  - first:
+      213: -5903230270698138115
+    second: Mussuh 5_1858
+  - first:
+      213: 4631645861643380549
+    second: Mussuh 5_1859
+  - first:
+      213: -1809697154077880207
+    second: Mussuh 5_1860
+  - first:
+      213: -8301569852629545320
+    second: Mussuh 5_1861
+  - first:
+      213: 6462902004411206628
+    second: Mussuh 5_1862
+  - first:
+      213: 6630985969311913160
+    second: Mussuh 5_1863
+  - first:
+      213: -5321365972542824169
+    second: Mussuh 5_1864
+  - first:
+      213: -5870893833105545037
+    second: Mussuh 5_1865
+  - first:
+      213: -2772852330533287016
+    second: Mussuh 5_1866
+  - first:
+      213: -105928400308110731
+    second: Mussuh 5_1867
+  - first:
+      213: -925492860917263013
+    second: Mussuh 5_1868
+  - first:
+      213: 235272842241253258
+    second: Mussuh 5_1869
+  - first:
+      213: 5975301609773897246
+    second: Mussuh 5_1870
+  - first:
+      213: -3573686355621627192
+    second: Mussuh 5_1871
+  - first:
+      213: -7083725861729355210
+    second: Mussuh 5_1872
+  - first:
+      213: 4520961213763919510
+    second: Mussuh 5_1873
+  - first:
+      213: 531675621941702822
+    second: Mussuh 5_1874
+  - first:
+      213: -2096396536008036362
+    second: Mussuh 5_1875
+  - first:
+      213: 1892443432318948316
+    second: Mussuh 5_1876
+  - first:
+      213: 6369887655711210503
+    second: Mussuh 5_1877
+  - first:
+      213: -6006618417095805438
+    second: Mussuh 5_1878
+  - first:
+      213: -1414333710229510421
+    second: Mussuh 5_1879
+  - first:
+      213: 4322827944986645587
+    second: Mussuh 5_1880
+  - first:
+      213: -4569584020611807182
+    second: Mussuh 5_1881
+  - first:
+      213: 916877614286817919
+    second: Mussuh 5_1882
+  - first:
+      213: -7348304205085434962
+    second: Mussuh 5_1883
+  - first:
+      213: -9113536511776198835
+    second: Mussuh 5_1884
+  - first:
+      213: 6098270963728625598
+    second: Mussuh 5_1885
+  - first:
+      213: -2509769095958903624
+    second: Mussuh 5_1886
+  - first:
+      213: -1631531915123621512
+    second: Mussuh 5_1887
+  - first:
+      213: 8206718277381786639
+    second: Mussuh 5_1888
+  - first:
+      213: 392760892866930766
+    second: Mussuh 5_1889
+  - first:
+      213: -3815858123434674600
+    second: Mussuh 5_1890
+  - first:
+      213: 1261270979239794099
+    second: Mussuh 5_1891
+  - first:
+      213: 4412974513381695053
+    second: Mussuh 5_1892
+  - first:
+      213: -7384248015946934704
+    second: Mussuh 5_1893
+  - first:
+      213: -4449179651239374770
+    second: Mussuh 5_1894
+  - first:
+      213: 6698228049660784695
+    second: Mussuh 5_1895
+  - first:
+      213: -4912713720219390089
+    second: Mussuh 5_1896
+  - first:
+      213: -6140772636489539935
+    second: Mussuh 5_1897
+  - first:
+      213: -1056263138797732210
+    second: Mussuh 5_1898
+  - first:
+      213: -8148303825770505492
+    second: Mussuh 5_1899
+  - first:
+      213: -753718846536583776
+    second: Mussuh 5_1900
+  - first:
+      213: 3558950601655200824
+    second: Mussuh 5_1901
+  - first:
+      213: -6301909174506499925
+    second: Mussuh 5_1902
+  - first:
+      213: -5319827909803033903
+    second: Mussuh 5_1903
+  - first:
+      213: -1686961059690652115
+    second: Mussuh 5_1904
+  - first:
+      213: -5907852131992688104
+    second: Mussuh 5_1905
+  - first:
+      213: 6016201576902223373
+    second: Mussuh 5_1906
+  - first:
+      213: -8479621126227879984
+    second: Mussuh 5_1907
+  - first:
+      213: -897295415823671008
+    second: Mussuh 5_1908
+  - first:
+      213: 5005288441522671992
+    second: Mussuh 5_1909
+  - first:
+      213: -839465341889846098
+    second: Mussuh 5_1910
+  - first:
+      213: -7954343174678700389
+    second: Mussuh 5_1911
+  - first:
+      213: -1804756258315086513
+    second: Mussuh 5_1912
+  - first:
+      213: 6118791034249310971
+    second: Mussuh 5_1913
+  - first:
+      213: 8261071745435170960
+    second: Mussuh 5_1914
+  - first:
+      213: 3660451076857554253
+    second: Mussuh 5_1915
+  - first:
+      213: -106929368382763895
+    second: Mussuh 5_1916
+  - first:
+      213: -1106061671817356135
+    second: Mussuh 5_1917
+  - first:
+      213: -2555021781498332938
+    second: Mussuh 5_1918
+  - first:
+      213: 8590027007720257392
+    second: Mussuh 5_1919
+  - first:
+      213: 4014837393811799189
+    second: Mussuh 5_1920
+  - first:
+      213: 5448651372935474122
+    second: Mussuh 5_1921
+  - first:
+      213: -2525129476965526245
+    second: Mussuh 5_1922
+  - first:
+      213: 4230680643636357073
+    second: Mussuh 5_1923
+  - first:
+      213: -7216668698848061616
+    second: Mussuh 5_1924
+  - first:
+      213: -7649547032980446659
+    second: Mussuh 5_1925
+  - first:
+      213: 4099329164037953062
+    second: Mussuh 5_1926
+  - first:
+      213: -7207970427621834093
+    second: Mussuh 5_1927
+  - first:
+      213: 1120062399875397842
+    second: Mussuh 5_1928
+  - first:
+      213: 7576236748794852172
+    second: Mussuh 5_1929
+  - first:
+      213: 6107837396733565970
+    second: Mussuh 5_1930
+  - first:
+      213: -4237465441376938884
+    second: Mussuh 5_1931
+  - first:
+      213: -4594088377762204849
+    second: Mussuh 5_1932
+  - first:
+      213: -6836116973028232782
+    second: Mussuh 5_1933
+  - first:
+      213: -4318430704590037528
+    second: Mussuh 5_1934
+  - first:
+      213: 1306254207878911550
+    second: Mussuh 5_1935
+  - first:
+      213: -6153330462722358539
+    second: Mussuh 5_1936
+  - first:
+      213: 1226585416924262890
+    second: Mussuh 5_1937
+  - first:
+      213: -1172174474280247844
+    second: Mussuh 5_1938
+  - first:
+      213: -7043430428296521626
+    second: Mussuh 5_1939
+  - first:
+      213: -27488014031586986
+    second: Mussuh 5_1940
+  - first:
+      213: 3873646796865855152
+    second: Mussuh 5_1941
+  - first:
+      213: 4982502433922156903
+    second: Mussuh 5_1942
+  - first:
+      213: 5462580242742673876
+    second: Mussuh 5_1943
+  - first:
+      213: 4168947032281603007
+    second: Mussuh 5_1944
+  - first:
+      213: 9041134887006964430
+    second: Mussuh 5_1945
+  - first:
+      213: 5132016499108300145
+    second: Mussuh 5_1946
+  - first:
+      213: -2189472601002310135
+    second: Mussuh 5_1947
+  - first:
+      213: -9014332675867586452
+    second: Mussuh 5_1948
+  - first:
+      213: 573142384821154614
+    second: Mussuh 5_1949
+  - first:
+      213: 416603866768831672
+    second: Mussuh 5_1950
+  - first:
+      213: 1143343850812324106
+    second: Mussuh 5_1951
+  - first:
+      213: -1105766674707160360
+    second: Mussuh 5_1952
+  - first:
+      213: -3053774052088526535
+    second: Mussuh 5_1953
+  - first:
+      213: -3276074502650862566
+    second: Mussuh 5_1954
+  - first:
+      213: -7733425791627122408
+    second: Mussuh 5_1955
+  - first:
+      213: 628623771295240475
+    second: Mussuh 5_1956
+  - first:
+      213: -6963080437549459588
+    second: Mussuh 5_1957
+  - first:
+      213: 4687447091261182765
+    second: Mussuh 5_1958
+  - first:
+      213: 2321786454423274633
+    second: Mussuh 5_1959
+  - first:
+      213: -53133684908124155
+    second: Mussuh 5_1960
+  - first:
+      213: 4701427281643644568
+    second: Mussuh 5_1961
+  - first:
+      213: 1426524918637749040
+    second: Mussuh 5_1962
+  - first:
+      213: 844241362737792690
+    second: Mussuh 5_1963
+  - first:
+      213: -7104584167640592893
+    second: Mussuh 5_1964
+  - first:
+      213: -3672259829533203149
+    second: Mussuh 5_1965
+  - first:
+      213: -756294975171820221
+    second: Mussuh 5_1966
+  - first:
+      213: -3977574634042604107
+    second: Mussuh 5_1967
+  - first:
+      213: -3951624738899291325
+    second: Mussuh 5_1968
+  - first:
+      213: -139029635683842899
+    second: Mussuh 5_1969
+  - first:
+      213: -3380789014469848679
+    second: Mussuh 5_1970
+  - first:
+      213: -4007135047988682750
+    second: Mussuh 5_1971
+  - first:
+      213: 3882157960458862204
+    second: Mussuh 5_1972
+  - first:
+      213: -5995642999957516020
+    second: Mussuh 5_1973
+  - first:
+      213: 4897333992072495698
+    second: Mussuh 5_1974
+  - first:
+      213: 3470862526598695434
+    second: Mussuh 5_1975
+  - first:
+      213: 7608960356654071042
+    second: Mussuh 5_1976
+  - first:
+      213: -3896457642280868141
+    second: Mussuh 5_1977
+  - first:
+      213: -5542790293504201420
+    second: Mussuh 5_1978
+  - first:
+      213: -1828216788727565963
+    second: Mussuh 5_1979
+  - first:
+      213: 8567541018781449723
+    second: Mussuh 5_1980
+  - first:
+      213: -4067605291042230044
+    second: Mussuh 5_1981
+  - first:
+      213: 8916011776812124408
+    second: Mussuh 5_1982
+  - first:
+      213: 6766835412338445932
+    second: Mussuh 5_1983
+  - first:
+      213: 7718755679645124544
+    second: Mussuh 5_1984
+  - first:
+      213: -6747634356037171939
+    second: Mussuh 5_1985
+  - first:
+      213: 9063119303663217634
+    second: Mussuh 5_1986
+  - first:
+      213: -3707705192166011751
+    second: Mussuh 5_1987
+  - first:
+      213: -546317874639495971
+    second: Mussuh 5_1988
+  - first:
+      213: 2517520386025569563
+    second: Mussuh 5_1989
+  - first:
+      213: -3299679577379455665
+    second: Mussuh 5_1990
+  - first:
+      213: 6847653753614210210
+    second: Mussuh 5_1991
+  - first:
+      213: 850917350561888391
+    second: Mussuh 5_1992
+  - first:
+      213: 5966682343726848837
+    second: Mussuh 5_1993
+  - first:
+      213: -175262830718473079
+    second: Mussuh 5_1994
+  - first:
+      213: 4269048967176536670
+    second: Mussuh 5_1995
+  - first:
+      213: 1535073868496402670
+    second: Mussuh 5_1996
+  - first:
+      213: 2492851813996559681
+    second: Mussuh 5_1997
+  - first:
+      213: 7421373466083853558
+    second: Mussuh 5_1998
+  - first:
+      213: 3043156492282147492
+    second: Mussuh 5_1999
+  - first:
+      213: 4619938498562948891
+    second: Mussuh 5_2000
+  - first:
+      213: -9002894281330070717
+    second: Mussuh 5_2001
+  - first:
+      213: 1627324149732189321
+    second: Mussuh 5_2002
+  - first:
+      213: -1236160599710934142
+    second: Mussuh 5_2003
+  - first:
+      213: -7693726269018744282
+    second: Mussuh 5_2004
+  - first:
+      213: -3877271417544630877
+    second: Mussuh 5_2005
+  - first:
+      213: -4646445474447926375
+    second: Mussuh 5_2006
+  - first:
+      213: -2426513327616996048
+    second: Mussuh 5_2007
+  - first:
+      213: -8488901501305602304
+    second: Mussuh 5_2008
+  - first:
+      213: 5726764302224439029
+    second: Mussuh 5_2009
+  - first:
+      213: 1972716557573551983
+    second: Mussuh 5_2010
+  - first:
+      213: 2598260702854470976
+    second: Mussuh 5_2011
+  - first:
+      213: 8978026536175016968
+    second: Mussuh 5_2012
+  - first:
+      213: -9125436908505477040
+    second: Mussuh 5_2013
+  - first:
+      213: 9136065710474070941
+    second: Mussuh 5_2014
+  - first:
+      213: -5279766830124167826
+    second: Mussuh 5_2015
+  - first:
+      213: -4546558079213060895
+    second: Mussuh 5_2016
+  - first:
+      213: -5310360813446563176
+    second: Mussuh 5_2017
+  - first:
+      213: -8998365624838780873
+    second: Mussuh 5_2018
+  - first:
+      213: -1832057839767483522
+    second: Mussuh 5_2019
+  - first:
+      213: 4423641620521224556
+    second: Mussuh 5_2020
+  - first:
+      213: -7592226336677343645
+    second: Mussuh 5_2021
+  - first:
+      213: 8845723568789524830
+    second: Mussuh 5_2022
+  - first:
+      213: -2741321322464809158
+    second: Mussuh 5_2023
+  - first:
+      213: -2924576309104762650
+    second: Mussuh 5_2024
+  - first:
+      213: -1658046181265605878
+    second: Mussuh 5_2025
+  - first:
+      213: -2193827385243018041
+    second: Mussuh 5_2026
+  - first:
+      213: 728080575964536034
+    second: Mussuh 5_2027
+  - first:
+      213: 42075581759705525
+    second: Mussuh 5_2028
+  - first:
+      213: 1058024198419344493
+    second: Mussuh 5_2029
+  - first:
+      213: 1487559507052383527
+    second: Mussuh 5_2030
+  - first:
+      213: -6456984957484606471
+    second: Mussuh 5_2031
+  - first:
+      213: -6264323278150821105
+    second: Mussuh 5_2032
+  - first:
+      213: -167399084481740154
+    second: Mussuh 5_2033
+  - first:
+      213: -1688576432303598635
+    second: Mussuh 5_2034
+  - first:
+      213: -2803305170203560454
+    second: Mussuh 5_2035
+  - first:
+      213: 8464840219381857432
+    second: Mussuh 5_2036
+  - first:
+      213: -4008254355194001189
+    second: Mussuh 5_2037
+  - first:
+      213: -5403096424459353592
+    second: Mussuh 5_2038
+  - first:
+      213: -663509224290457527
+    second: Mussuh 5_2039
+  - first:
+      213: 7704498366769892116
+    second: Mussuh 5_2040
+  - first:
+      213: 1811414719116221783
+    second: Mussuh 5_2041
+  - first:
+      213: 2698830799931844105
+    second: Mussuh 5_2042
+  - first:
+      213: -5482711065496521154
+    second: Mussuh 5_2043
+  - first:
+      213: -8755694205236695404
+    second: Mussuh 5_2044
+  - first:
+      213: -4899669806082380886
+    second: Mussuh 5_2045
+  - first:
+      213: -6234979546003980666
+    second: Mussuh 5_2046
+  - first:
+      213: -3555688004263282669
+    second: Mussuh 5_2047
+  - first:
+      213: 5071561424112415191
+    second: Mussuh 5_2048
+  - first:
+      213: -1223342349769944733
+    second: Mussuh 5_2049
+  - first:
+      213: 1040189356358931165
+    second: Mussuh 5_2050
+  - first:
+      213: 3590983849450239630
+    second: Mussuh 5_2051
+  - first:
+      213: 4842526111562359383
+    second: Mussuh 5_2052
+  - first:
+      213: -5059506348200777184
+    second: Mussuh 5_2053
+  - first:
+      213: 3612017202513074052
+    second: Mussuh 5_2054
+  - first:
+      213: -8857432519139890046
+    second: Mussuh 5_2055
+  - first:
+      213: 2304528647135026460
+    second: Mussuh 5_2056
+  - first:
+      213: 575161257559428864
+    second: Mussuh 5_2057
+  - first:
+      213: -3596739498881018120
+    second: Mussuh 5_2058
+  - first:
+      213: 2209772518141577444
+    second: Mussuh 5_2059
+  - first:
+      213: -816056445655401457
+    second: Mussuh 5_2060
+  - first:
+      213: 6602504825374731310
+    second: Mussuh 5_2061
+  - first:
+      213: -8089407616535365966
+    second: Mussuh 5_2062
+  - first:
+      213: -1243880252236703848
+    second: Mussuh 5_2063
+  - first:
+      213: -5809206151155583876
+    second: Mussuh 5_2064
+  - first:
+      213: -6458695662626377569
+    second: Mussuh 5_2065
+  - first:
+      213: 1877374091483933837
+    second: Mussuh 5_2066
+  - first:
+      213: 6972985840046502303
+    second: Mussuh 5_2067
+  - first:
+      213: -7965894256395894904
+    second: Mussuh 5_2068
+  - first:
+      213: -5048720000738432742
+    second: Mussuh 5_2069
+  - first:
+      213: -4084171595629012291
+    second: Mussuh 5_2070
+  - first:
+      213: 8710351641406186838
+    second: Mussuh 5_2071
+  - first:
+      213: -5127501465746018436
+    second: Mussuh 5_2072
+  - first:
+      213: 6152820319504752043
+    second: Mussuh 5_2073
+  - first:
+      213: 3778398569345950712
+    second: Mussuh 5_2074
+  - first:
+      213: -6780610072793111424
+    second: Mussuh 5_2075
+  - first:
+      213: -8617765005054349427
+    second: Mussuh 5_2076
+  - first:
+      213: -5977521464249361679
+    second: Mussuh 5_2077
+  - first:
+      213: 1384030801469752959
+    second: Mussuh 5_2078
+  - first:
+      213: -947802616743822054
+    second: Mussuh 5_2079
+  - first:
+      213: -56790544178086204
+    second: Mussuh 5_2080
+  - first:
+      213: -2822023559456321804
+    second: Mussuh 5_2081
+  - first:
+      213: -805566450121741674
+    second: Mussuh 5_2082
+  - first:
+      213: -6433041604713813109
+    second: Mussuh 5_2083
+  - first:
+      213: 3588574525471240769
+    second: Mussuh 5_2084
+  - first:
+      213: -6484153491795944113
+    second: Mussuh 5_2085
+  - first:
+      213: -5999104677453715565
+    second: Mussuh 5_2086
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mussuh 5_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 1692
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac16e91c4777f90c0800000000000000
+      internalID: -4566800153782099510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
